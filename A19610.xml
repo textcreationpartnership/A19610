@@ -1,0 +1,983 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lover: or, Nuptiall love. VVritten, by Robert Crofts, to please himselfe</title>
+            <author>R. C. (Robert Crofts)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19610</idno>
+            <idno type="STC">STC 6042</idno>
+            <idno type="STC">ESTC S109075</idno>
+            <idno type="EEBO-CITATION">99844725</idno>
+            <idno type="PROQUEST">99844725</idno>
+            <idno type="VID">9563</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9563)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 954:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lover: or, Nuptiall love. VVritten, by Robert Crofts, to please himselfe</title>
+                  <author>R. C. (Robert Crofts)</author>
+                  <author>Marshall, William, fl. 1617-1650, engraver.</author>
+               </titleStmt>
+               <extent>[96] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop and T. F[awcet] for Rich: Meighen, next to the middle Temple in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fawcet's name from STC.</note>
+                  <note>Cf. Folger catalogue, which gives signatures: pi¹ A-F (F⁵ + [chi]¹) (-A1,F8).</note>
+                  <note>With an additional title page, engraved, "The lover or A discourse of nuptiall love", signed "W. Marshall, sculp:".</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love --  Early works to 1800.</term>
+               <term>Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:9563:1"/>
+            <p>
+               <figure>
+                  <head>THE LOVER or <hi>A Diſcourſe of</hi> NUPTIALL LOVE <hi>Written by</hi> Robert Croſts <hi>To pleaſe himſelfe</hi>
+                  </head>
+                  <p>
+                     <gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+                  <q>
+                     <bibl>
+                        <hi>Virgil. Ecloga.</hi> 10.</bibl>
+                     <hi>Omnia Vincit amor, &amp; nos cedamus amori.</hi>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>Boetius metro.</hi> 8. <hi>lib</hi> 2.</bibl>
+                     <hi>Hic &amp; coniugij ſacrum Caſtis nectit amoribꝰ.</hi>
+                  </q>
+                  <q>
+                     <hi>Omne tulit punctum, qui miſcuit vtile dulci <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </q>
+                  <byline>W. Marſhall. ſculp:</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:9563:1"/>
+            <p>THE LOVER: <hi>OR,</hi> NVPTIALL LOVE.</p>
+            <p>WRITTEN, by <hi>Robert Crofts,</hi> To pleaſe himſelfe.</p>
+            <p>LONDON, Printed by <hi>B. Alſop</hi> and <hi>T.F.</hi> for <hi>Rich: Meighen,</hi> next to the middle <hi>Temple</hi> in <hi>Fleet-ſtreet.</hi> 1638.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:9563:2"/>
+            <pb facs="tcp:9563:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, if you aske mee, to what intent I publiſh this Treatiſe, I may anſwer, to pleaſe you: A well reſolved man cannot pleaſe himſelfe, but hee deſires to pleaſe others alſo, and endeavours in all good wayes ſo to doe. And I am not out of hope, but that this diſ<g ref="char:EOLhyphen"/>courſe, wil profit ſome men alſo, ſince I have made uſe of many and divers Authors in the compoſing thereof. But I have endeavoured to digeſt the ſame into ſuch a new manner, method ſtile and forme, as was moſt pleaſing to my ſelfe; adding therevnto ſuch Inventions, Raptures, obſervations, Poems, Alterations, &amp; experiments, as
+<pb facs="tcp:9563:3"/>
+met with my meditations: ſo as the Treatiſe may ſeeme and bee even as pleaſing as if it were all new. Which to doe, oft times requires wel nigh as much Art, as wholly the In<g ref="char:EOLhyphen"/>vention of new matters. It is true, I know the world is cloyd with bookes and many there bee perhaps more then needs of this ſubject; but this is a breife and Compendious diſcourſe; and therefore I hope will neither cloy the world or the Reader. It was written for Recreation, amidſt more ſerious occaſions; and ſo I deſire it may be read. I know there be ma<g ref="char:EOLhyphen"/>ny malicious, envious, male contented and maligne Spirits in the world, who will pine, greive, and grudge at the proſperity and pleaſures of True-lovers, as they doe at all happineſſe, and that there bee many carping Readers who vſually read all (eſpe<g ref="char:EOLhyphen"/>cially pleaſing) bookes, in a ſneaking manner, and endeavor to find nothing
+<pb facs="tcp:9563:3"/>
+ſo much as faults; and by their jug<g ref="char:EOLhyphen"/>ling and cunning art of detraction, can make one or a few faults, ſeeme to de<g ref="char:EOLhyphen"/>voure a multitude of good Actions, endeavouring nothing ſo much as to diſcourage and hinder all good, pleaſant and happy waies. But for the cenſure of ſuch men, I ſhall endea<g ref="char:EOLhyphen"/>vor not to regard, or elſe to contemn them. Yet truely I ſhall thinke my ſelfe much obliged to ſuch, as in good will ſhall tell me of my faults, Errors, Ignorances and negligences. How<g ref="char:EOLhyphen"/>ever knowing that all things in the world are imperfect, it ſhall ſuffiſe to pleaſe my ſelfe, that I have done as well as I could for the preſent time. But I had not ſo eaſily nor ſo ſoone bin perſwaded to be, a foole in Print as the proverb goes, and as the Car<g ref="char:EOLhyphen"/>ping and barking Reader is eſpecially like to ſay, if I had not had ſome ene<g ref="char:EOLhyphen"/>mies (aſwel as many frie<g ref="char:cmbAbbrStroke">̄</g>ds) who have provoked me rather to be ce<g ref="char:cmbAbbrStroke">̄</g>ſured by
+<pb facs="tcp:9563:4"/>
+many, then abuſed by a few. But if I did not thinke and hope that this diſ<g ref="char:EOLhyphen"/>courſe would be pleaſant &amp; profitable to ſome in reading, as it hath bin to me in writing, &amp; if that I had not bin great<g ref="char:EOLhyphen"/>ly encouraged herein by many men, I ſhould ſtill have bin content to have ſuffered the aſperſion of a Pocket Author, aſhamed to ſhew himſelfe a<g ref="char:EOLhyphen"/>broad, fearing to be a foole in Print.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:9563:4"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <hi>THe firſt Section, treateth of the Ex<g ref="char:EOLhyphen"/>cellency of Nuptiall Love.</hi>
+               </item>
+               <item>
+                  <hi>The II of the miſeries of the loſſe and want of ſuch Love.</hi>
+               </item>
+               <item>
+                  <hi>Section III. of a good choyce in Love.</hi>
+               </item>
+               <item>
+                  <hi>IV How to Enjoy our wiſhes, pleaſe our Lovers, and encreaſe Love.</hi>
+               </item>
+               <item>
+                  <hi>V The Art of Love, diſcourſe.</hi>
+               </item>
+               <item>
+                  <hi>VI An inſtance in this Art concerning Loves Excellency.</hi>
+               </item>
+               <item>
+                  <hi>VII Shewing further the vſe of this Art of diſcourſe.</hi>
+               </item>
+               <item>
+                  <hi>VIII Shewing breifely how to attaine the ſame.</hi>
+               </item>
+               <item>
+                  <hi>IX Anſweres to ſome obiections.</hi>
+               </item>
+               <item>
+                  <hi>X Remedies againſt the loſſe of Love.</hi>
+               </item>
+               <item>
+                  <hi>XI Remedies againſt an overſottiſh and doting Love.</hi>
+               </item>
+               <pb facs="tcp:9563:5"/>
+               <item>
+                  <hi>XII Remedies againſt vnlawfull Luſts.</hi>
+               </item>
+               <item>
+                  <hi>XIII Remedies againſt diſcontents af<g ref="char:EOLhyphen"/>ter marriage.</hi>
+               </item>
+               <item>
+                  <hi>XIIII A breife perſwaſion to marriage.</hi>
+               </item>
+               <item>
+                  <hi>XV The good uſe of this Nuptiall Love, and ſo concluding, with a breife diſ<g ref="char:EOLhyphen"/>courſe of Divine Love.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:9563:5"/>
+            <head>THE LOVER OR A Compendious Diſ<g ref="char:EOLhyphen"/>courſe of Nuptiall Love.</head>
+            <div n="1" type="section">
+               <head>SECTION. 1. <hi>Of the Excellency thereof.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Difinition, Diviſions, Pedigree, kinds, object, cauſes, ſymptomes and effects of this ſubject, Nuptiall Love, hath ex<g ref="char:EOLhyphen"/>erciſed the pen of ma<g ref="char:EOLhyphen"/>ny and divers Authors; they are Com<g ref="char:EOLhyphen"/>mon and well knowne, I ſhall therefore begin with the excellency thereof.</p>
+               <p>The Excellency of this marriage Love, may firſt appeare by the Author thereof, which is God himſelfe.</p>
+               <p>In the beginning of the World, the Lord God ſaid it is not good that man ſhould bee alone I will make an helpe meet for him. Gen. 2.18.</p>
+               <p>Our Saviour ſaith, from the beginning
+<pb facs="tcp:9563:6"/>
+of the Creation God made them male and female, for this cauſe ſhall a man leave his father and mother and ſhall cleave to his wife, and they two ſhall be one fleſh. <hi>Mark.</hi> 10.7. <hi>Mat.</hi> 19.</p>
+               <p>And in his Sacred Word, by St. <hi>Paul</hi> he ſaith, Husbands love your wiues as Chriſt loved his Church; ſo ought men to love their wives as their owne bodies, for he that loveth his wife loveth him<g ref="char:EOLhyphen"/>ſelfe. <hi>Eph.</hi> 5.25.28.</p>
+               <p>The excellency of this Nuptiall Love, may further appeare in reſpect of the ob<g ref="char:EOLhyphen"/>ject, which is Woman, who is the image of God as well as man. <hi>Gen.</hi> 1.27. An help meet for him, 2.28. A part of him<g ref="char:EOLhyphen"/>ſelfe. 31.</p>
+               <p>Wine is ſtrong, Kings are ſtrong; but a woman is ſtronger. Women have Do<g ref="char:EOLhyphen"/>minion over Kings, ſaith <hi>Zorobabell. Eſdr.</hi> 4. All men ſubmit to Love.</p>
+               <p>When that Hermits boy, who had al<g ref="char:EOLhyphen"/>wayes bin brought vp in the wilderneſſe came firſt abroad in the world, being aſ<g ref="char:EOLhyphen"/>ked what ſight pleaſed him beſt therein, readily reply'd. Thoſe things which you call Women.</p>
+               <p>A vertuous woman is a Crowne to her
+<pb facs="tcp:9563:6"/>
+husband, ſaith King <hi>Solomon.</hi> Prov. 12.4.</p>
+               <p>Loves excellency alſo appeares in re<g ref="char:EOLhyphen"/>ſpect of the parties affected; The braveſt, the moſt noble, generous, and gallant ſpi<g ref="char:EOLhyphen"/>rits, are commonly moſt and beſt taken and poſſeſt with this Love: wherefore it is called Heroicall Love.</p>
+               <p>And the parts of man affected alſo, are his moſt excelle<g ref="char:cmbAbbrStroke">̄</g>t parts, as the Heart, liver, bloud and braines; and conſequently, the imagination and Reaſon.</p>
+               <p>I ſay Reaſon! for want of Love com<g ref="char:EOLhyphen"/>monly ſhewes want of reaſon; either ſtu<g ref="char:EOLhyphen"/>pidity or peeuiſhneſſe in a man. It is moſt certaine that divine Love is infinitely more excellent and aboue humane Love; And ſuch men as are of a Divine temper, may eaſily overcome the ſame. But all of us have bodies aſwell as ſoules, wee are compoſed of humanity aſwell as divinity, and he that never felt the power of this love may be eſteemed as ſome Eunuch, or ſot, or elſe of a ſuper-humane temper</p>
+               <p>And on the other ſide, exceſſe of love, ſhewes weakneſſe, dotiſhneſſe, and folly; and then theſe excellent parts of man are miſaffected. Such Love is without Rea<g ref="char:EOLhyphen"/>ſon, but true love is moſt agreeable there<g ref="char:EOLhyphen"/>vnto
+<pb facs="tcp:9563:7"/>
+and therefore Excellent.</p>
+               <p>And further, the excellency of this Nuptiall Love appeareth by the effects thereof, which are very many. To inſtance breifely in ſome few of them.</p>
+               <p>This Love preſerues and encreaſes mankind in a perpetuall generation, and vnites familiar Provinces, and King<g ref="char:EOLhyphen"/>domes.</p>
+               <p>It cauſeth abundance of felicity to ſuch as are indeed true lovers, ſuch who live together like <hi>Abraham</hi> and <hi>Sara, Iſaack</hi> &amp; <hi>Rebecca, Paetus</hi> and <hi>Arica, Seneca</hi> and his <hi>Paulina, Rubenus Caelar</hi> and his <hi>Ennea, Ca<g ref="char:EOLhyphen"/>to</hi> and his <hi>Portia,</hi> and the reſt of thoſe who are regeſtred in the liſt of true and happy Lovers.</p>
+               <p>It is ſaid, there is no pleaſure in the world like that of the ſweet ſociety of Lovers, in the way of marriage, and of a loving husband and wife. Hee is her head, ſhe commands his heart, he is her Love, her joy, ſhe is his honey, his Doue, his delight.</p>
+               <p>They may take ſweet councell toge<g ref="char:EOLhyphen"/>ther, aſſiſt and comfort one another in all things, their joy is doubled and Redoub<g ref="char:EOLhyphen"/>led.</p>
+               <p>
+                  <pb facs="tcp:9563:7"/>By this bleſſed vnion, the number of Parents, friends, and kindred is increaſed; It may be an occaſion of ſweet and love<g ref="char:EOLhyphen"/>ly Children, who in after times may bee a great felicity and joy to them.</p>
+               <p>And theſe may remaine as living Pic<g ref="char:EOLhyphen"/>tures to ſhew their memory, from gene<g ref="char:EOLhyphen"/>ration to generation; <hi>Lyſippus, Mento Polycletus, Zeuxis</hi> or <hi>Parthaſius,</hi> had ne<g ref="char:EOLhyphen"/>ver the skill to engrave or paint the fa<g ref="char:EOLhyphen"/>ther and mother neere ſo well and lively; and great is the Pleaſure that loving Pa<g ref="char:EOLhyphen"/>rents enjoy in their Children.</p>
+               <p>A multitude of felicities, a million of joyfull and bleſſed effects, ſpring from true Love.</p>
+               <p>And indeed this Nuptiall Love and ſo<g ref="char:EOLhyphen"/>ciety ſweetens, all our Actions, diſcourſes; all other pleaſures, felicities, and even in all Reſpects, Encreaſes true Ioy and hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECTION. 2. <hi>The Miſeries of the loſſe and want of ſuch Love.</hi>
+               </head>
+               <p>THis bleſſedneſſe &amp; excellency of love will be the more apara<g ref="char:cmbAbbrStroke">̄</g>t if we co<g ref="char:cmbAbbrStroke">̄</g>ſider
+<pb facs="tcp:9563:8"/>
+the miſeries either of the loſſe of ſuch love before marriage, or of the want thereof after marriage.</p>
+               <p>It is wonderfull to thinke how many Lovers, for want of enjoying their wiſh<g ref="char:EOLhyphen"/>es in this kind, plunge themſelves into a multitude of cares, feares, ſorrowes, blind<g ref="char:EOLhyphen"/>neſſe, dotage, ſeruitude, ſlavery, miſcheife and miſeries.</p>
+               <p>Many men will venture their goods, fame, lives, and (as King <hi>Iohn</hi> for <hi>Matil<g ref="char:EOLhyphen"/>da</hi>) Crownes if they had them, to enioy their Loves.</p>
+               <p>Sorrow, deiection, much waking, ſigh<g ref="char:EOLhyphen"/>ing, Neglects, Peeviſhneſſe, reſtleſſe thoughts, brutiſh attempts, want of appe<g ref="char:EOLhyphen"/>rite, paleneſſe, and leanneſſe, are common effects and Symptomes of the want of en<g ref="char:EOLhyphen"/>ioying, and of the loſſe of Love.</p>
+               <p>And millions of men having loſt their Loves, for this cauſe, become Melan<g ref="char:EOLhyphen"/>cholly, diſcontented and deiected, all their life-time after.</p>
+               <p>Many there be (ſaith <hi>Zorobabell</hi>) that have runne out of their wits for women, and become ſervants for their ſakes. <hi>Eſdr.</hi> 4.26. Theſe things are commonly knowne; Bedlam hath bin full of ex<g ref="char:EOLhyphen"/>amples.</p>
+               <p>
+                  <pb facs="tcp:9563:8"/>Many alſo have periſhed, have erred, and ſinned for women. <hi>Eſdr.</hi> 4.26. Examples heereof have bin common in all ages. Hiſtories are full of them.</p>
+               <p>And how many have wee knowne and heard of in our ages, who have conſumed away and dyed for want of enioying and looſing their loves, yea ſome for griefe have bin their owne executioners and for this cauſe have made away themſelves.</p>
+               <p>And after marriage it is ſtrange to thinke, what Iealouſies, Contentions, Feares, Sorrowes, ſtrange Actions, geſ<g ref="char:EOLhyphen"/>tures, lookes, bitter words, outrages and debates, are betweene men and their wives for want of true love and diſcreti<g ref="char:EOLhyphen"/>on.</p>
+               <p>Theſe things have alwayes bin and are ſo common to all mens view, as they need but little diſquiſition.</p>
+               <p>An evill woman (ſaith the wiſe man) makes a ſorry countenance and an heavy heart, and he had rather dwell with a Lyon then keepe houſe with ſuch a wife. <hi>Eccl.</hi> 26.27. And he that hath her is as if he held a <hi>Scorpion,</hi> verſe. 14.</p>
+            </div>
+            <div n="3" type="section">
+               <pb facs="tcp:9563:9"/>
+               <head>SECT. III. <hi>Of a good choyce in Love.</hi>
+               </head>
+               <p>BVt that wee may truely love, obtaine our loves, enjoy them and live well together; Firſt let us make a good choyce in Love.</p>
+               <p>A good wife is from the Lord, ſaith King <hi>Solomon;</hi> Let us then firſt goe to him by prayer for ſuch a one, and invite Chriſt to our wedding, let us take Saint <hi>Pauls</hi> counſell, to marry onely in him. Whatſoever yee doe, ſaith he, let all bee done to the praiſe and glory of God.</p>
+               <p>Let Piety and Vertue be the firſt mo<g ref="char:EOLhyphen"/>ver of our affections, ſince therein onely conſiſts true and permanent felicity. And no lovers live more pleaſantly and hap<g ref="char:EOLhyphen"/>pily together, then ſuch as are of gracious and vertuous conditions.</p>
+               <p>Whereas among ſuch as are of vicious and impious conditions, what is to bee ſeene, but ſtrife, tumults, diſorder, ſuſpi<g ref="char:EOLhyphen"/>tion, confuſion, and miſery in the end. A vertuous and well given lover, is much better to bee eſteemed, then a fine faire face with ill conditions,</p>
+               <p>Let us not then bee ſo ſenſuall, as to
+<pb facs="tcp:9563:9"/>
+love onely the corps, but looke higher, and ſee ſomething in our lovers of an An<g ref="char:EOLhyphen"/>gelicall nature; That is, a free vertuous and gracious mind, which to an vnder<g ref="char:EOLhyphen"/>ſtanding man appeares to bee a divine eſ<g ref="char:EOLhyphen"/>ſence, and to which he mingles his ſoule in love, which (if truely thought on) will appeare to bee a farre more excellent and permanent love then that of the body, and conſequently more pleaſant.</p>
+               <p>So then let us ſpheare our loves, and ſeeke beauty rather in a mind then in a countenance.</p>
+               <p>In the next place after Piety, vertue, and good conditions, it is very good and re<g ref="char:EOLhyphen"/>quiſite to looke after corporall and ex<g ref="char:EOLhyphen"/>ternall reſpects.</p>
+               <p>And as neere as wee may, to chooſe ſuch as are of equall yeeres, birth, for<g ref="char:EOLhyphen"/>tunes, and degree, of good parentage, and kindred, of ſuch a countenance, complexi<g ref="char:EOLhyphen"/>on and conſtitution, as beſt agrees to our love and diſpoſition.</p>
+               <p>Inconſiderate and vnequall marriage, are commonly very pernitious and a multi<g ref="char:EOLhyphen"/>tude of miſchievous and miſerable ef<g ref="char:EOLhyphen"/>fects ſpring from ſuch marriages.</p>
+               <p>An old woman is a very unfit and un<g ref="char:EOLhyphen"/>pleaſing
+<pb facs="tcp:9563:10"/>
+companion for a young man, and for an old man to dote upon young wenches is very unſeemely and hatefull. <hi>Eccluſ.</hi> 25.26. And commonly much ſtrife, ſuſpition, jealouſie, diſcontents, and miſeryes enſue ſuch marriages.</p>
+               <p>It is a good time, as ſome ſay, for a man to marry betweene fiue &amp; twenty yeeres old, and thirty, and for a woman be<g ref="char:EOLhyphen"/>tweene her age of eighteene and two and twenty.</p>
+               <p>That young fine wife of old rich <hi>Faelix Plater</hi> of <hi>Baſill,</hi> beeing married to him againſt her will for griefe hang'd herſelf.</p>
+               <p>Such as marry fooliſh light Phantaſticke adlepated, brainſicke, Peeces, and of con<g ref="char:EOLhyphen"/>trary conditions, are like to find but pee<g ref="char:EOLhyphen"/>viſh, jealous, froward and untoward things of them.</p>
+               <p>If a ſound and healthy perſon marryes one that is diſeaſed and impotent, It is like to bee an occaſion of much diſcon<g ref="char:EOLhyphen"/>tent.</p>
+               <p>And ſo in all reſpects ſuch as marry un<g ref="char:EOLhyphen"/>equally and unfitly, what better ſucceſſe can they looke for, then <hi>Vulcan</hi> had with <hi>Venus, Menelaus</hi> with <hi>Hellen, Theſeus</hi> with <hi>Phadra, Minos</hi> with <hi>Paſiphae,
+<pb facs="tcp:9563:10"/>
+Claudius</hi> with <hi>Meſſalina;</hi> Suſpition, Iealouſie, Strife, Shame, Sorrow, Diſcon<g ref="char:EOLhyphen"/>tent, and Miſery.</p>
+               <p>Let us then as neere as wee may con<g ref="char:EOLhyphen"/>veniently, chooſe ſuch as are of fit and e<g ref="char:EOLhyphen"/>qual yeeres, birth, fortunes, degree, paren<g ref="char:EOLhyphen"/>tage, conſtitution, and of like vertuous, and gracious conditions.</p>
+               <p>And eſpecially ſuch a one as from our hearts wee can truely love. From ſuch a loving, fit, equall and good choyce is like to ſpring abundance of moſt ſweet de<g ref="char:EOLhyphen"/>lights and felicities.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IIII. <hi>Shewing how to enjoy our wiſhes, pleaſe our Lovers, and encreaſe love.</hi>
+               </head>
+               <p>HAving made our choice, now comes a queſtion.</p>
+               <p>How ſhall wee doe to obtaine our wiſhes, and pleaſe our lovers. It beeing ſuch an excellent felicity to enjoy our loves, and ſuch a miſery to looſe them, as is ſaid; this matter therefore is very re<g ref="char:EOLhyphen"/>quiſite to bee peept into.</p>
+               <p>The ordinary and vſuall Arteficiall meanes preſcribed, and uſed to obtaine and encreaſe love, and to pleaſe our Min<g ref="char:EOLhyphen"/>nions, Miſtreſſes, and Madames, are ſuch as follow.</p>
+               <p>
+                  <pb facs="tcp:9563:11"/>Pleaſant and well compoſed lookes, Glances, Smiles, Counterſmiles, plauſible Geſtures, pleaſant carriage, and behavi<g ref="char:EOLhyphen"/>our, affability, complements, ſalutations, a comely gate and pace, dancing and the like, will greatly pleaſe and increaſe the love of ſome female creatures. Alſo time, place, opportunity, conference, importu<g ref="char:EOLhyphen"/>nity, &amp; ſometimes (I know that) neglect and ſcorne doth in ſome of theſe female kind, much increaſe love, for ſome of them are of ſuch Imperious conditions, as they will inſult over, and ſcorne ſuch puny Lovers as will bee pind upon their ſleeves.</p>
+               <p>Hence it is, like women are compared to ſhadowes, if wee follow them, they will goe from us; If wee goe away, they will follow us againe: wherefore ſome<g ref="char:EOLhyphen"/>times to neglect is better then opportu<g ref="char:EOLhyphen"/>nity, and whetteth Love.</p>
+               <p>There be divers love-trickes, and de<g ref="char:EOLhyphen"/>vices alſo to ſtirre up and increaſe love; as tokens, favours, letters, valentines, merry meetings, and many others,</p>
+               <p>All theſe fore named occaſions, allure<g ref="char:EOLhyphen"/>ments, and love devices, are uſually prac<g ref="char:EOLhyphen"/>tized and even naturall to lovers, and
+<pb facs="tcp:9563:11"/>
+need little diſquiſition.</p>
+               <p>I might now imagine a Wedding day, wiſh to all true-louers, joy, and proceed.</p>
+               <p>Yet becauſe me thinkes I ſee many young lovers in a deepe ſtudy, very pen<g ref="char:EOLhyphen"/>ſiue and melancholly, ſurely the matter is, they are plodding and deviſing what to ſay to pleaſe their miſtreſſes at their next meeting.</p>
+               <p>And foraſmuch, as heretofore at idle times, to recreate and pleaſe my ſelfe, I began to ſtudy the Art of diſcourſe.</p>
+               <p>I now thinke it not amiſſe (out of the ſame) to take a little paynes, or rather a little pleaſure to recreate my ſelfe (a<g ref="char:EOLhyphen"/>midſt more ſerious occaſions) and giue an inſtance onely, concerning this matter of Love.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V. <hi>The Art of Love-diſcourſe.</hi>
+               </head>
+               <p>ARteficiall diſcourſe being added to the other love devices, if any good meanes, will, this may effect our deſires, and to ſuch as are already agreed, the ſame may bee moſt pleaſant and delight<g ref="char:EOLhyphen"/>full, much increaſe love and adde a grea<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:9563:12"/>
+joy and pleaſure to all other Love-ſports, devices and pleaſures.</p>
+               <p>Wee know, that even common and frivolous diſcourſe being ſpoken in the way of love, will much pleaſe and take theſe female lovers, ſuch as are idle Compleme<g ref="char:cmbAbbrStroke">̄</g>ts, Players ends, Newes, tales, Love-ſtories, Laſcivious Ieſts, Songs, and the like, though very idle and frivolous, and though ſpoken and acted by ſome Apiſh gull-Pot Poet, or ſwaggering idle companion, ſo as (eſpecially light Phan<g ref="char:EOLhyphen"/>taſticke things, ſuch as many women are) will bee over head and eares in love.</p>
+               <p>But now if ſome well given, faire con<g ref="char:EOLhyphen"/>dition'd young man (for to ſuch I cheife<g ref="char:EOLhyphen"/>ly direct this diſcourſe) ſhall withall adde a ſweet pleaſing, convincing heart-ſtri<g ref="char:EOLhyphen"/>king and materiall diſcourſe to his Lover, whom I will imagin to bee a like vertu<g ref="char:EOLhyphen"/>ous and well condition'd young creature, it will bee indeed ſufficient to captivate ſweetly, charme and overcome them, and beeing ſpoken in the way of love, and mingled with other honeſt pleaſant love devices, to fill their hearts full of joy and pleaſure, and ſo to enchant them as they will be ioyned together with an indiſſo<g ref="char:EOLhyphen"/>luble
+<pb facs="tcp:9563:12"/>
+bond of true flaming Love.</p>
+               <p>For the manner and matter of our diſ<g ref="char:EOLhyphen"/>courſe, I have alwayes thought it vanity, and lightneſſe rather then courteſie, to diſcourſe (according to the gallants faſh<g ref="char:EOLhyphen"/>ion of our times) by meere complements, congies, apiſh geſtures, and meere fini<g ref="char:EOLhyphen"/>call words. To ſay, ſweete miſtreſſe, or Madame, I honour your ſhoo-ſtrings, the ground you tread upon, am proud to kiſſe your hand, it is my ambition to bee your ſervants ſervant, and the like, to preſent and offer not onely our ſervice, but life to the command of our miſtreſ<g ref="char:EOLhyphen"/>ſes, as wee uſe to call them, though God knowes wee never meane to bee their ſervants.</p>
+               <p>Or, on the other ſide to ſtudy and talke to them high ſtraines of wit, and figuratiue exornations leſt they bee not vnderſtood or laught at.</p>
+               <p>But in this reſpect a plaine yet artefi<g ref="char:EOLhyphen"/>ciall mouing and peircing way is beſt.</p>
+               <p>I intend not to perſcribe a ſet method to diſcourſe in, for why methinkes a pre<g ref="char:EOLhyphen"/>medicated ſet diſcourſe ſhewes ſome<g ref="char:EOLhyphen"/>thing a barrenneſſe of wit though not of judgement. And is commonly uttered
+<pb facs="tcp:9563:13"/>
+with little paſſion or feeling (which is in ſome meaſure taken away by premedita<g ref="char:EOLhyphen"/>tion) and conſequently not ſo freely, lively and with ſuch a grace as otherwiſe, unleſſe wee can counterfeit (like a Play<g ref="char:EOLhyphen"/>er) our paſſions, and have wit enough to come out and in upon all occaſions of diſcourſe.</p>
+               <p>On the other ſide, wee are not ſtrayted in this ſubject for want of matter to diſ<g ref="char:EOLhyphen"/>courſe on all occaſions, even in an extem<g ref="char:EOLhyphen"/>poreall manner, for every ſmile, Action, Object, Event, or ſpeech, may affoord a lover matter of ſudden diſcourſe, and in<g ref="char:EOLhyphen"/>deed love of it ſelfe, if it bee fervent, whets the wit and ſo ſtirres up the ſpi<g ref="char:EOLhyphen"/>rits, as wee may ſay of lovers; As of fine wits, they can make uſe of any thing.</p>
+               <p>But neither of this extemporeall diſ<g ref="char:EOLhyphen"/>courſe is my intention to write of, but ra<g ref="char:EOLhyphen"/>ther a mixture of both, which I will call a habit of diſcourſe, or; an extemporeall Method. A method not ſo much to diſ<g ref="char:EOLhyphen"/>courſe in, as to diſcourſe by; in ſuch ſort as a man may bee furniſht with contin<g ref="char:EOLhyphen"/>nuall abilities of diſcourſe in an extem<g ref="char:EOLhyphen"/>poreall method (as I may ſay) or a ſudden and well compoſed manner, without
+<pb facs="tcp:9563:13"/>
+brainſick, light, idle, frivolous, prating on the one ſide, or too much pumping for wit on the other ſide, but with a ready yet perſwaſiue and materiall diſcourſe on all occaſions.</p>
+               <p>But this Art of diſcourſe in generall, concerning all matters will not eaſily be given to weake novices (yet the meere obſervation thereof even to ſuch may doe them ſome good concerning this matter of love) but in generall, it will rather require that a man bee well lear<g ref="char:EOLhyphen"/>ned and experienced in the liberall Sci<g ref="char:EOLhyphen"/>ences, eſpecially ſuch as he ſhall have moſt occaſion to diſcourſe of. So as he may readily on all occaſions dilate the matter of his diſcourſe by the Rules and grounds of this Art, which are:</p>
+               <p>By Number, Particulars, Arguments, Examples, Compariſons, Similitudes, Contrarieties, Appendances, Circumſtan<g ref="char:EOLhyphen"/>ces, and the like.</p>
+               <p>I ſhall firſt giue an inſtance in this Art of diſcourſe very breifely concerning this matter of Love, and that onely con<g ref="char:EOLhyphen"/>cerning the excellency thereof. And then a taſte what is to be done to attaine to this Art.</p>
+            </div>
+            <div n="6" type="section">
+               <pb facs="tcp:9563:14"/>
+               <head>SECT. VI. <hi>An inſtance in this Art of Diſcourſe concerning Loves excellency.</hi>
+               </head>
+               <p>FIrſt, for inſtance in this Art concer<g ref="char:EOLhyphen"/>ning the excellency of Love, which though I have already given a taſt of, I ſhall now ſpeake more therof in another manner, method, and to another purpoſe.</p>
+               <p>For this purpoſe, let us imagine a man to bee well skilled in this Art, that wee may gueſſe what ſuch a man can doe, and imagin this able skilfull man in this Art have occaſion to diſcourſe of the excel<g ref="char:EOLhyphen"/>lency of Love, he can readily even Rap<g ref="char:EOLhyphen"/>tim, diſcourſe thereof in divers wayes and manners, as for example.</p>
+               <p>Either from the number of benefits and excellencies, flowing from thence as from a fountaine, ſuch as are ſweet and pleaſant thoughts, lookes, ſmiles, kiſſes, diſcourſes, ſongs, tales, jeſts, ſports, em<g ref="char:EOLhyphen"/>braces, dalliances, mutuall kindneſſes, comforts, helps, ſociety, pleaſant mee<g ref="char:EOLhyphen"/>tings, mirth, encreaſe of parents, kindred, friends, riches, ſweete and pretty chil<g ref="char:EOLhyphen"/>dren, &amp; mutuall enjoyme<g ref="char:cmbAbbrStroke">̄</g>ts of all the bleſ<g ref="char:EOLhyphen"/>ſings and pleaſures that can bee thought
+<pb facs="tcp:9563:14"/>
+upon, and as he pleaſes, can apply all or a<g ref="char:EOLhyphen"/>ny of theſe to his love, and when he ſees occaſion can ſing to the ſame purpoſe.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Weele ſometimes ſit and ſweetely chat,</hi>
+                     </l>
+                     <l>
+                        <hi>And pretty tales and ſtories tell,</hi>
+                     </l>
+                     <l>
+                        <hi>Weele ſometimes ſing, and jeſt, and laugh</hi>
+                     </l>
+                     <l>
+                        <hi>In all delights wee ſtill may dwell.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Weele ſometimes lovingly embrace</hi>
+                     </l>
+                     <l>
+                        <hi>And ſometimes ſport and ſweetely play,</hi>
+                     </l>
+                     <l>
+                        <hi>Yea all delights that can bee thought</hi>
+                     </l>
+                     <l>
+                        <hi>Like trueſt lovers weele enjoy.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>And alſo, he can from theſe felicities and benefits ſpringing from love, conclude the excellency thereof, apply it, and if he pleaſes, ſing—
+<q>
+                     <l>
+                        <hi>'Tis ſure a pleaſant</hi>
+                     </l>
+                     <l>
+                        <hi>moſt excelling thing,</hi>
+                     </l>
+                     <l>
+                        <hi>From whence ſuch, and</hi>
+                     </l>
+                     <l>
+                        <hi>ſo many joyes doe ſpring:</hi>
+                     </l>
+                     <l>
+                        <hi>The rareſt Iewels</hi>
+                     </l>
+                     <l>
+                        <hi>are not halfe ſo precious,</hi>
+                     </l>
+                     <l>
+                        <hi>The ſweeteſt honey</hi>
+                     </l>
+                     <l>
+                        <hi>is not ſo delicious.</hi>
+                     </l>
+                     <l>
+                        <hi>Oh, then deere Love!</hi>
+                     </l>
+                     <l>
+                        <hi>let us true lovers bee:</hi>
+                     </l>
+                     <l>
+                        <hi>That wee ſuch joyes,</hi>
+                     </l>
+                     <l>
+                        <hi>may feele, may taſt, may ſee.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>
+                  <pb facs="tcp:9563:15"/>And alſo if he pleaſes, can diſcourſe of any particular of this number, yea even of the leaſt of them; As for example, of a kiſſe, telling, that the Roſe, Gilli-flower, Muske, Nectar, Balſome, Ambro<g ref="char:EOLhyphen"/>ſia, are not halfe ſo ſweet as theſe loue-dropping kiſſes, or in the like manner; and this he verifies on her lipps, and can when he ſees occaſion mingle therewith pleaſant ſongs and Poems.</p>
+               <q>
+                  <l>
+                     <hi>O that ſuch ſweet joy,</hi>
+                  </l>
+                  <l>
+                     <hi>Should ſo ſoone paſſe away</hi>
+                  </l>
+                  <l>
+                     <hi>and ſo ſuddenly waſt,</hi>
+                  </l>
+                  <l>
+                     <hi>That ſuch excellent bliſſes,</hi>
+                  </l>
+                  <l>
+                     <hi>As are thy ſweete kiſſes,</hi>
+                  </l>
+                  <l>
+                     <hi>No longer ſhould laſt.</hi>
+                  </l>
+                  <l>
+                     <hi>So ſugred, ſo precious,</hi>
+                  </l>
+                  <l>
+                     <hi>So ſoft, ſo delitious.</hi>
+                  </l>
+                  <l>
+                     <hi>So dainty, ſo ſweet, and ſo fine,</hi>
+                  </l>
+                  <l>
+                     <hi>As the honey from the Bee:</hi>
+                  </l>
+                  <l>
+                     <hi>Is not halfe ſo ſweet to mee,</hi>
+                  </l>
+                  <l>
+                     <hi>As is one ſweet kiſſe of thine.</hi>
+                  </l>
+               </q>
+               <p>Or, from a very thought of Love hee can tell the excellency thereof, ſhewing that even ſuch a thought is enough to fill the heart with joy, drowne all ſorrow
+<pb facs="tcp:9563:15"/>
+and make us thinke our ſelves even in Paradiſe, to imagine what pleaſures wee ſhall enjoy hereafter.</p>
+               <q>
+                  <l>
+                     <hi>Deere, let us ever be in Love.</hi>
+                  </l>
+                  <l>
+                     <hi>Let ſtill ſuch thoughts our fancy move.</hi>
+                  </l>
+               </q>
+               <p>And ſo of the like, concerning any o<g ref="char:EOLhyphen"/>ther Particular of this number.</p>
+               <p>Hee can further Argue, and conclude from any particular of this number, the excellency thereof, divers wayes; as for example, from the leſſer to the greater.</p>
+               <p>As from a thought of Love, hee con<g ref="char:EOLhyphen"/>cludes a neceſſity of greater excellency, in greater matters.</p>
+               <q>
+                  <l>
+                     <hi>If but a thought of Love</hi>
+                  </l>
+                  <l>
+                     <hi>bee ſuch a treaſure</hi>
+                  </l>
+                  <l>
+                     <hi>To enjoy the ſame is ſure</hi>
+                  </l>
+                  <l>
+                     <hi>farre greater pleaſure.</hi>
+                  </l>
+               </q>
+               <p>Or, from particulars to the number in like manner. If from one or a few parti<g ref="char:EOLhyphen"/>culars of this number of excellencies, and benefits, flowing from Love, ſpring ſo much felicity; How much more, doth then proceed for them all.</p>
+               <q>
+                  <pb facs="tcp:9563:16"/>
+                  <l>
+                     <hi>When ſuch ſo many ſweeteſt joyes</hi>
+                  </l>
+                  <l>
+                     <hi>Shall all at once within us meete,</hi>
+                  </l>
+                  <l>
+                     <hi>Oh, how wee ſhall bee rapt therewith</hi>
+                  </l>
+                  <l>
+                     <hi>And fild with pleaſures, extreame ſweet.</hi>
+                  </l>
+               </q>
+               <p>And likewiſe concerning Time, as for example, To enjoy ſuch pleaſure but one houre, or a day, were enough to poſſeſſe the heart with mervellous Ioy, yea though that houre or day were halfe a yeere hence, yet the very imagination of it in the meane time is ſufficient to poſ<g ref="char:EOLhyphen"/>ſeſſe us with ſweet pleaſures till then. Much more may a longer time delight us.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>To enjoy ſuch pleaſures but one day,</hi>
+                     </l>
+                     <l>
+                        <hi>It were enough to raviſh even</hi>
+                     </l>
+                     <l>
+                        <hi>Our hearts and minds, with ſuch ſweet joy</hi>
+                     </l>
+                     <l>
+                        <hi>To thinke our ſelves almoſt in heaven.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>If but one day, bee ſuch ſweet joy</hi>
+                     </l>
+                     <l>
+                        <hi>Such rareſt pleaſure, ſuch delights,</hi>
+                     </l>
+                     <l>
+                        <hi>What pleaſures may wee then poſſeſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Perchance a thouſand dayes and nights.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>Or, otherwiſe in divers kinds. But to proceed.</p>
+               <p>Further, he can diſcourſe and ſet forth
+<pb facs="tcp:9563:16"/>
+the excelle<g ref="char:cmbAbbrStroke">̄</g>cy of Love, by examples; as of <hi>Seneca</hi> and <hi>Paulina, Orpheus</hi> &amp; <hi>Euricide, Manſolus</hi> and <hi>Artimeſia, Marke Antony</hi> and his <hi>Octavia, Argalus</hi> and <hi>Parthe<g ref="char:EOLhyphen"/>nia,</hi> and others. Hiſtories are repleniſh<g ref="char:EOLhyphen"/>ed, with examples, and can ſhew how ſuch Lovers thinke themſelves, even in the Orchards of <hi>Adonis,</hi> or the <hi>Elizian fields,</hi> when they enjoy their Love, they are ſo taken with pleaſure.</p>
+               <q>
+                  <l>
+                     <hi>If others in their Loue doe find</hi>
+                  </l>
+                  <l>
+                     <hi>Such joy, ſuch pleaſures, in their mind:</hi>
+                  </l>
+                  <l>
+                     <hi>Why ſhould not wee, let thee and I</hi>
+                  </l>
+                  <l>
+                     <hi>Enjoy ſuch ſweet felicity.</hi>
+                  </l>
+               </q>
+               <p>Or, by compariſons, by way of Inter<g ref="char:EOLhyphen"/>rogation, or otherwiſe, did ever any Lo<g ref="char:EOLhyphen"/>vers enjoy ſuch pleaſures, and ſhall not wee;
+<q>
+                     <l>
+                        <hi>Then will wee ſport, play, laugh, and ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>And live as merrily, as a King.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Or, beyond compariſons, <hi>Chaereus</hi> never tooke ſuch pleaſure in his <hi>Pam<g ref="char:EOLhyphen"/>phila,</hi> as thee and I will in one another; Hee thought none living, ſo happy as
+<pb facs="tcp:9563:17"/>
+they two, but wee may ſweare it of our ſelves,
+<q>
+                     <l>Cupid <hi>nor</hi> Venus, Ioue <hi>himſelfe.</hi>
+                     </l>
+                     <l>
+                        <hi>Shall never know what wee may tell:</hi>
+                     </l>
+                     <l>
+                        <hi>What heavenly pleaſures, what delights,</hi>
+                     </l>
+                     <l>
+                        <hi>Within thy heart, and mine may dwell.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Or, by contrarieties, That the power of Love is of ſo great force, as the loſſe of it, often cauſeth extreame melanchol<g ref="char:EOLhyphen"/>ly, ſadneſſe, griefe, madneſſe, and ſome<g ref="char:EOLhyphen"/>times death it ſelfe, as appeares by the examples, of Queene <hi>Dido,</hi> Queene <hi>Ar<g ref="char:EOLhyphen"/>timeſia, Portia, Triara, Panthea, Medea, Parthenia, Iuliet,</hi> and <hi>Romeo, Pyramus,</hi> and <hi>Thisbe, Antonius,</hi> and <hi>Cleopatra, Coreſus, Calirhoe, Clorus, Amintas,</hi> of <hi>Mareus Lepidus, Plantius, Numidius,</hi> and many others. It muſt needs bee a moſt excellent felicity, the Loſſe where<g ref="char:EOLhyphen"/>of cauſeth ſuch miſery.</p>
+               <q>
+                  <l>
+                     <hi>If it be death,</hi>
+                  </l>
+                  <l>
+                     <hi>to looſe a loving wife,</hi>
+                  </l>
+                  <l>
+                     <hi>To enjoy her then,</hi>
+                  </l>
+                  <l>
+                     <hi>is ſure more worth then life.</hi>
+                  </l>
+               </q>
+               <p>Or, by ſimilitudes, divers wayes, and
+<pb facs="tcp:9563:17"/>
+in every particular, as for example; The pleaſure of Love, may bee likned to fire, an ardent and flaming joy, to water, a fountaine of pleaſure. Gold, Pearles, Amber, the Roſe-muske, Nectar, Am<g ref="char:EOLhyphen"/>broſia, or whatſoever is moſt pleaſant, is not ſo precious, ſo ſweet, ſo delight<g ref="char:EOLhyphen"/>full, the Elizian-fields, or Turkes Para<g ref="char:EOLhyphen"/>diſe, is not more pleaſant. This Nuptiall Love, is often uſed as a Reſemblance betweene Chriſt, and his Church, the <hi>Canticles,</hi> is wholly, a Love-ſong to this purpoſe; And it is to bee thought, that no humane earthly joy, repreſents that of heaven, more then this of true Love, though there bee no compariſon, be<g ref="char:EOLhyphen"/>tweene terreſtriall, and Celeſtiall hap<g ref="char:EOLhyphen"/>pineſſe, either in worth or duration of time, theſe being as nothing, as droſſe in reſpect of the heavenly; yet in reſpect of our weake Apprehenſion, ſuch com<g ref="char:EOLhyphen"/>pariſons often are, and may bee made.</p>
+               <q>
+                  <l>
+                     <hi>For ſome doe thinke,</hi>
+                  </l>
+                  <l>
+                     <hi>that Love is even,</hi>
+                  </l>
+                  <l>
+                     <hi>A joy Divine,</hi>
+                  </l>
+                  <l>
+                     <hi>a taſte of heaven.</hi>
+                  </l>
+               </q>
+               <p>Or, by the effects of Love, To inſtance among many, and divers in a few; Love
+<pb facs="tcp:9563:18"/>
+quickens the Spirit, and wit, and makes a man become pleaſant, neate, ſpruce, lively, a Poet, a Muſitian, a dancer, a man of fine behaviour, it makes us enjoy all things in the world, with a ſweeter plea<g ref="char:EOLhyphen"/>ſure then otherwiſe, for why; it poſſeſſes the heart with joy, and a ioyfull heart takes pleaſure in all things, ſweetens all our Actions, Diſcourſes, Riches, and all pleaſures; A million of joyfull and bleſſed effects ſpring from Love, if wee love truely.</p>
+               <q>
+                  <l>
+                     <hi>So, if wee love wee ſtill, ſhall find,</hi>
+                  </l>
+                  <l>
+                     <hi>A joyfull pleaſure, in our mind:</hi>
+                  </l>
+                  <l>
+                     <hi>Whether, eate, talke, thinke, work or play,</hi>
+                  </l>
+                  <l>
+                     <hi>True Love, will turne all into joy.</hi>
+                  </l>
+               </q>
+               <p>Or, by Additions, Appendances, and Circumſtances, as for example. That Love, is more ſplendent, and excellent, when it is ſeated in its Throne, and at<g ref="char:EOLhyphen"/>tended with Riches, honours, and other pleaſures, who ſeeme to bee Loves hand<g ref="char:EOLhyphen"/>maids, who graces, and ſweetens all the reſt. And as a Circumſtance, hee can diſcourſe almoſt of any thing, and ſet forth the excellency thereof, as by the
+<pb facs="tcp:9563:18"/>
+Attendants, Riches, honours, and plea<g ref="char:EOLhyphen"/>ſures; by the object Women, by the Parts, and Parties affected, which are the moſt excellent parts of man, and com<g ref="char:EOLhyphen"/>monly the braveſt, nobleſt, and moſt ge<g ref="char:EOLhyphen"/>nerous men. By the Author which is, God himſelfe; for Love, is a daughter of heaven, yea as ſome ſay, a little heaven upon earth, by which wee may ſpye and ſpell Glympſes of heaven, and bee the more inflamed to ſeeke and poſſeſſe it, ſo as it ſeemes wee may enjoy two hea<g ref="char:EOLhyphen"/>vens.</p>
+               <q>
+                  <l>
+                     <hi>In higheſt joyes, that can be thought,</hi>
+                  </l>
+                  <l>
+                     <hi>Weel ſweetly paſſe our time away;</hi>
+                  </l>
+                  <l>
+                     <hi>What pleaſure is in Earth, or heaven,</hi>
+                  </l>
+                  <l>
+                     <hi>That thee and I may not enjoy.</hi>
+                  </l>
+               </q>
+               <p>Thus have I given a taſt of Loves ex<g ref="char:EOLhyphen"/>cellency by way of inſtance in this Art of diſcourſe.</p>
+               <p>But I pray remember, it is but by way of diſcourſe, and I hope you will pardon what is amiſſe; for you know men will talke ſomewhat largely, to pleaſe their Lovers, and yet ſay they have given but a taſt when they have done. But I proceed.</p>
+            </div>
+            <div n="7" type="section">
+               <pb facs="tcp:9563:19"/>
+               <head>SECT. VII. <hi>Shewing further the uſe of this Art.</hi>
+               </head>
+               <p>BY which order, or Art of diſcourſe; wee may diſcourſe of any other par<g ref="char:EOLhyphen"/>ticular whatſoever, as for example; Of the contrary to what hath bin dilated, to wit, the miſery of Loves Loſſe. Which may even readily bee dilated, and ex<g ref="char:EOLhyphen"/>preſſed by this Art, in this manner like<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>Either, by the number of miſeries, the miſery of each particuler of that num<g ref="char:EOLhyphen"/>ber with obſervations, in reſpect of matter, time, place, and other occaſions. And each particular demonſtrated by divers examples, Reaſons, Arguments, Compariſons, Contrarieties, Similitudes, Circumſtances, or otherwiſe. And ſet forth by apt expreſſions, and particular<g ref="char:EOLhyphen"/>ly applyed, and paſſionately enforced and uttered, according to the nature of the ſubject.</p>
+               <p>In this manner alſo, wee may diſcourſe of any other ſubiect upon occaſion, whe<g ref="char:EOLhyphen"/>ther of Riches, or of honour, of health, of Prudence, Temperance, fortitude, or
+<pb facs="tcp:9563:19"/>
+of any vertue, of Poverty, diſgrace, or ſickneſſe, of Covetouſneſſe, Ambition, Intemperance, or of any other vice, or miſery; yea of Religion, and divine Mat<g ref="char:EOLhyphen"/>ters.</p>
+               <p>And in truth, there cannot bee a better way of Love diſcourſing, then a Religi<g ref="char:EOLhyphen"/>ous way (however, ſeldome practized, but rather deſpiſed, by many of the blades, and gallant Dames, of the world (aſwell as the ſottiſh, and blockiſh ſort of people) who thinke and eſteeme all things aboue their phantaſticke, and vaine humors, folly, and madneſſe.</p>
+               <p>But indeed, what better way of Love diſcourſing, can bee, then a laudable, and pious inſinuation into the mind, of ſuch as wee diſcourſe with, whether friend or Lover, by heavenly diſcourſes, which alſo may bee done by ſome ſuch like Art, as hath bin dilated.</p>
+               <p>In ſomuch, that if both parties, bee of a divine temper, their hearts may bee filled with heavenly, and glorious thoughts, but theſe things I know will ſeeme folly, myſticall, ſtrange, and as ve<g ref="char:EOLhyphen"/>ry Riddles, to ſuch whoſe meere natu<g ref="char:EOLhyphen"/>rall mindes are not raiſed to the know<g ref="char:EOLunhyphen"/>ledge
+<pb facs="tcp:9563:20"/>
+of ſupernaturall, and heavenly things.</p>
+               <p>But ſuch Lovers, and friends, whoſe minds are Elevated to a ſupernaturall, and divine temper, their hearts can bee filled with heavenly Ioy in ſuch diſ<g ref="char:EOLhyphen"/>courſes, and by the eye of Contemplati<g ref="char:EOLhyphen"/>on, ſee one another in reſpect of their mindes, like Angels, Divine creatures, and ſo love one another with a heavenly, aſwell as earthly Love.</p>
+               <p>Both which, being vnited, doe tye their hearts together with an indiſſolu<g ref="char:EOLhyphen"/>ble knot, and fill them with ſweet foun<g ref="char:EOLhyphen"/>taines of joy, and delight.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII. <hi>Shewing briefly, how to attaine this Art of diſcourſe.</hi>
+               </head>
+               <p>NOw to give a taſt (as I ſaid) how to attaine to bee a skilfull Artiſt, in this or the like Art of diſcourſe.</p>
+               <p>Which becauſe it may bee ſaid in ge<g ref="char:EOLhyphen"/>nerall, almoſt in as few words, as parti<g ref="char:EOLhyphen"/>cularly of Love, I ſhall endeavour very briefly, to ſhew the ſame in a generall way, which is:</p>
+               <p>
+                  <pb facs="tcp:9563:20"/>Firſt, by often and ſerious meditations, to imprint into our minds, the grounds and heads thereof.</p>
+               <p>As Numbers, Particulars, Obſervati<g ref="char:EOLhyphen"/>ons, Arguments, Examples, Compari<g ref="char:EOLhyphen"/>ſons, Contrarieties, Similitudes, Cir<g ref="char:EOLhyphen"/>cumſtances, Appendances, and the like, as perfectly, as wee doe our A, B, C. Whereby wee may as readily call to mind thoſe grounds, as wee can letters, to ſpell words with, which is, as faſt as wee can ſpeake.</p>
+               <p>Or, as in the Art of Brachygraphy, or Short-writing, wee readily know, at which end, ſide, or place of the letter, to ſet the tittle, daſh, or enſuing letter, whereby wee know, what vowell, dip<g ref="char:EOLhyphen"/>thong, or word it ſignifies, even as ſud<g ref="char:EOLhyphen"/>denly, as wee can thinke of any thing; or as Preachers doe, eſpecially take notice and imprint into their minds, the heads, diviſions, and grounds of their Ser<g ref="char:EOLhyphen"/>mons.</p>
+               <p>Secondly, having thus imprinted the grounds in our minds, wee ought to bee furniſht with ſufficient learning, and skill, concerning the matter of our diſ<g ref="char:EOLhyphen"/>courſe.</p>
+               <p>
+                  <pb facs="tcp:9563:21"/>And in generall, to bee skilfull in ſuch Arts, and Sciences, as wee ſhall have moſt occaſion to diſcourſe of, whe<g ref="char:EOLhyphen"/>ther of Divinity, Phyſicke, Law, Philoſo<g ref="char:EOLhyphen"/>phy, Hiſtory, Poetry, or other; ſo as I might inſtance alſo in this Art, concer<g ref="char:EOLhyphen"/>ning the Divine, the Lawyer, the Phyſi<g ref="char:EOLhyphen"/>tian, the Gentleman, and divers o<g ref="char:EOLhyphen"/>thers, aſwell as the Lover, in their ſeve<g ref="char:EOLhyphen"/>rall wayes of diſcourſing, and alſo con<g ref="char:EOLhyphen"/>cerning divers uſuall occaſions, if my skill would attaine thereunto, but this Treatiſe will not admit thereof.</p>
+               <p>That ſo by obſervation, reading, or o<g ref="char:EOLhyphen"/>therwiſe, wee may bee furniſht with ſuf<g ref="char:EOLhyphen"/>ficient Learning, matter, examples, and skill to this purpoſe, in ſuch ſort, that wee may (as ſome ancient, and well fur<g ref="char:EOLhyphen"/>niſht Orators, Lawyers, Phyſitians, and others can in their ſeverall wayes) readi<g ref="char:EOLhyphen"/>ly diſcourſe, even Raptim, upon any Maxime, ground, or Rule in their Sci<g ref="char:EOLhyphen"/>cences.</p>
+               <p>So then impreſſing the grounds of this Art in our mindes, and furniſhing our ſelves with a ready ability, to diſ<g ref="char:EOLhyphen"/>courſe upon theſe grounds, is the way to attaine to this Art of diſcourſe.</p>
+               <p>
+                  <pb facs="tcp:9563:21"/>And although the perfection thereof bee very difficult to attaine unto in ſuch a ready manner, yet even the meere ob<g ref="char:EOLhyphen"/>ſervation or reading thereof, may lend us ſome light, and in this matter of Love bee an occaſion of encreaſing the ſame, and poſſeſſing our ſelves and Lovers with moſt pleaſing joyes, and delights, (unleſſe wee have to doe with ſome brainſick, fooliſh, Phantaſticke, light things, better loſt then found,) and con<g ref="char:EOLhyphen"/>ſequently diſpoſſeſſe the young melan<g ref="char:EOLhyphen"/>cholly Lover of that penſiue humour, fearing not to enjoy, or pleaſe his Love.</p>
+               <p>Thus much concerning the Art of Diſcourſe.</p>
+            </div>
+            <div n="9" type="section">
+               <head>SECT. IX. <hi>Containing anſweres to ſome objections.</hi>
+               </head>
+               <p>ANd now me thinkes I cannot but imagine, that ſome too ſevere <hi>Cato</hi> Churliſh <hi>Timon,</hi> or <hi>Carping Momus,</hi> will eſteeme this Love-diſcourſe, too light and wanton.</p>
+               <p>And I know there bee many in our times, ſo Stoicall, and Rigid, as they will ſcarce allow moderate and lawfull Re<g ref="char:EOLhyphen"/>creations,
+<pb facs="tcp:9563:22"/>
+(for this diſcourſe was chiefly written, for meere recreation amidſt more ſerious occaſions, and ſo I deſire it may bee read.) And they eſteeme honeſt, and harmleſſe Love ſports, pleaſures, and diſcourſes (though in the way of mar<g ref="char:EOLhyphen"/>riage) prophaneneſſe.</p>
+               <p>But wee may know that it is good and commendable, for ſuch as doe, or intend to live in that honourable and bleſſed e<g ref="char:EOLhyphen"/>ſtate of mariage, to bee poſſeſt with con<g ref="char:EOLhyphen"/>jugall Love, and conſequently ſuch ho<g ref="char:EOLhyphen"/>neſt love diſcourſes, devices, and plea<g ref="char:EOLhyphen"/>ſures, as encreaſe the ſame, are to bee e<g ref="char:EOLhyphen"/>ſteemed good and commendable.</p>
+               <p>And I conceive, that no well conditi<g ref="char:EOLhyphen"/>on'd happy man, none but envious, ma<g ref="char:EOLhyphen"/>licious, male-contented Spirits, will hin<g ref="char:EOLhyphen"/>der, diſlike, or grudge True-lovers of ſuch honeſt, and harmeleſſe Love de<g ref="char:EOLhyphen"/>lights, and pleaſures.</p>
+               <p>And I am not ſo Cynicall, but that I thinke a modeſt expreſſion, of ſuch a<g ref="char:EOLhyphen"/>morous conceits, as ſuite with reaſon, being free from obſcaenity, will yet very well become my yeeres, in which not to have ſome feeling of Love, were as great an Argument of much ſtupidity, as an o<g ref="char:EOLhyphen"/>verſottiſh
+<pb facs="tcp:9563:22"/>
+affection, were of extreame folly.</p>
+               <p>But what need I excuſe my ſelfe in this, when 'tis well knowne that many whole volumes, have bin written of Love, and that divers famous and wor<g ref="char:EOLhyphen"/>thy Philoſophers, Phyſitians, Hiſtorians, Poets, and others, have written as lightly, and more wantonly, then I have done of this ſubject.</p>
+               <p>But ſaith my Grandſire, it ſeemes to mee, that ſuch vaine Love diſcourſes, are vnneceſſary, and of little perſwaſion.</p>
+               <p>Yet if wee thinke of the Parties, to whom theſe things are ſpoken, that is, to female creatures, and to Lovers; Such things as are a great deale more youth<g ref="char:EOLhyphen"/>full, vaine, wanton, and not of ſuch a ſe<g ref="char:EOLhyphen"/>rious, and ſolid ſubſtance, as my Grand<g ref="char:EOLhyphen"/>ſire is; wee ſhal know that ſuch diſcourſe are moſt apt and pleaſing, and much more perſwaſiue, than other more graue and ſolid.</p>
+               <p>And wee know that theſe female Lo<g ref="char:EOLhyphen"/>vers, eſteeme every word of their Sweet<g ref="char:EOLhyphen"/>hearts diſcourſe (though peradventure but ſlight matter, as if it were ſpoke) like, an Angell, and if withall ſuch Arteficiall
+<pb facs="tcp:9563:23"/>
+diſcourſes, ſuch pleaſant Heart-ſtriking Reaſons, bee mixed, it is even ſufficient to enchant, and enflame a Saint with Love, and Ioy.</p>
+               <p>In ſo much, I know that if there bee a reaſonable ſimpathy, betweene the Par<g ref="char:EOLhyphen"/>ties in Age, degree, fortunes, Counte<g ref="char:EOLhyphen"/>nance, Conſtitution, and Conditions, and a willing conſent of Parents, and friends at firſt, (though afterward great and ſtrange oppoſition ſhould happen in ma<g ref="char:EOLhyphen"/>ny reſpects) it would bee a marvailous hard matter (if not impoſſible) to part and diſunite their Love.</p>
+               <p>And that ſometimes even ſuch great oppoſition, quickens and encreaſes ſuch true Love and joy, which often flames the more, when it is blowne againſt and ſtirred up. And then ſuch Love and joy after croſſes are paſt, is moſt pleaſant in<g ref="char:EOLhyphen"/>deed.</p>
+               <p>If ſuch diſcourſes then, bee of ſuch ſtrong effect and operation as to joyne hearts in true Love, and encreaſe joy, notwithſtanding many croſſes, and great oppoſition, much more is it when thoſe are paſt, when both parties, and their friends are well pleaſed, when all their
+<pb facs="tcp:9563:23"/>
+thoughts are compoſed of kindneſſe, Love, and Ioy.</p>
+               <p>
+                  <hi>Medea's</hi> oyntment, <hi>Helenaes</hi> bowle, <hi>Circes</hi> cup, <hi>Phaedras</hi> Ring, or <hi>Venus</hi> girdle, cannot ſo inchant a man, ſo ſweet<g ref="char:EOLhyphen"/>ly moue and pleaſe his mind, as ſuch diſ<g ref="char:EOLhyphen"/>courſes will a female Lover.</p>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. X. <hi>Containing Remedies, againſt the Loſſe of Love.</hi>
+               </head>
+               <p>BVt now heere comes a queſtion, what is to be done if wee looſe our belo<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Indeed, many Lovers for want of en<g ref="char:EOLhyphen"/>joying their wiſhes in this kind, become extreame melancholy and ſorrowfull, and ſome betake themſelves to ill cour<g ref="char:EOLhyphen"/>ſes, as whooring, and Taverne-haunting, and ſometimes ſpoyle themſelves.</p>
+               <p>But indeed it is a madneſſe for a man to grieve, melancholize and runne into diſſolute courſes; becauſe hee cannot ob<g ref="char:EOLhyphen"/>taine his deſires in this kind, perhaps ſome unworthy creature; For if he have not placed his Love too high aboue his deſerts, or too unequally and unfitly, and
+<pb facs="tcp:9563:24"/>
+if hee have uſed good meanes to gaine her, if this will not, hee may iuſtly thinke that ſhe is ſome light phantaſtick thing, not worth his Heroicall, and Noble thoughts.</p>
+               <p>A wiſe man, will not Love a meere Corps, or which is worſe. A body with an ill ſoule in it.</p>
+               <p>Some Remedies uſually perſcribed a<g ref="char:EOLhyphen"/>gainſt this malady the loſſe of Love, are; To withſtand beginnings, to avoid all oc<g ref="char:EOLhyphen"/>caſions, as the company of the party be<g ref="char:EOLhyphen"/>loved, diſcourſe with her, ſight of her, place where ſhe lives, and the like.</p>
+               <p>Or, to goe to ſome other Miſtreſſe of better fortunes, birth and degree, if it may bee, or if ſuch cannot bee attained, yet let us know. That of all neceſſary e<g ref="char:EOLhyphen"/>vils (ſuch as men ſay wiues are) any may ſerve for neceſſity, and becauſe they are Evils, perhaps 'tis better to have none at all.</p>
+               <p>Though wee Batchellors perhaps thinke wiues fine things, yet ſuch as haue tryed, will tell us otherwiſe, as that there are many Thornes amidſt the Roſes of marriage, which hinder the pleaſures thereof, and cauſe much ſorrow.</p>
+               <p>
+                  <pb facs="tcp:9563:24"/>That married mens ſhooes wring them, but wee know not where. That many of there fore-heads are forked and wee are blind.</p>
+               <p>That the Love of the body is at the height, and will fall when once it hath gotten admittance into thoſe hidden and worſt parts thereof. And that ſo it is of the mind; Though our Lovers ſhew us their beſt conditions forward, yet when thoſe hidden and worſt parts of the ſoule which they dare not ſhew the world, are bare and detected. 'Tis like wee ſhall find them much worſe then wee expected.</p>
+               <p>So may wee obſerve by the carriage of moſt men after they are married; They are commonly more ſullen, dull, ſad, and penſive then before. Many of them love not their wiues, Nor perhaps have they any great occaſion, for aſmuch as wee ſee many of them proove ſluts, Scolds, idle, infirme, Proud, Iealous, Scornefull, Arrogant, and ſo imperious not to be en<g ref="char:EOLhyphen"/>dured, light, peeviſh, froward, ſad, lum<g ref="char:EOLhyphen"/>pniſh, prodigall, diſcontented.</p>
+               <p>And yet theſe men when they were Batchellors, thought theſe peeces fine
+<pb facs="tcp:9563:25"/>
+things, and imagined a Paradiſe in gay<g ref="char:EOLhyphen"/>ning them, and many husbands alſo (tis true) are as bad or worſe then their wiues, inſomuch as many married peo<g ref="char:EOLhyphen"/>ple live a very miſerable life; ſcolding, brawling, grieving, and alwayes diſcon<g ref="char:EOLhyphen"/>tented.</p>
+               <p>Wee may read in divers Philoſophers and other Authors, of many wiſe and witty ſpeeches and opinions againſt marriage, and they tell us many tales and ſtories to this purpoſe; Some ſad, and ſome merry ones. They are very com<g ref="char:EOLhyphen"/>mon, and for brevity I omit them.</p>
+               <p>Some men are Cornuted and father Children which are none of their owne; Their Children proove vndutifull, diſo<g ref="char:EOLhyphen"/>bedient, and prodigall ſervants, ſtout and careleſſe. A multitude of hinderances, charges, cares, croſſes, and annoyances are incident to marryed people; what wiſe men would marry.</p>
+               <p>Beſides, I might to this purpoſe, tell how happily wee Batchellors live with<g ref="char:EOLhyphen"/>out wives; How freely, ſecurely, merri<g ref="char:EOLhyphen"/>ly, pleaſantly, and without controle.</p>
+               <p>Saint <hi>Paul,</hi> preferres a ſingle life be<g ref="char:EOLhyphen"/>fore marriage, and I hope you will be<g ref="char:EOLhyphen"/>leeve
+<pb facs="tcp:9563:25"/>
+him. Yea but ſaith the married man you had better marry and live honeſt.</p>
+               <p>To anſwere this Cavill. It is obſerved, that Batchellors are as honeſt as married men; for many of them are ſeldome con<g ref="char:EOLhyphen"/>tent with their owne wiues, which is a greater ſhame and evill in them. But to let that paſſe, Batchellors can live honeſt without marrying, Such as are of a very unruly temper may uſe a moderate ſpare coole, and dry kind of dyet, and other Phyſicall Remedies, to allay the fire of Luſt.</p>
+               <p>They can faſt, pray, bee alwayes buſy a<g ref="char:EOLhyphen"/>bout ſome good occaſions and thinking on good matters.</p>
+               <p>But the moſt excellent Remedy is, Di<g ref="char:EOLhyphen"/>vine Contemplation; for certainely thoſe Spirits which are truely rayſed to the knowledge of divine things, and doe well know the Art of heavenly Contem<g ref="char:EOLhyphen"/>plation, are elevated above all the plea<g ref="char:EOLhyphen"/>ſures of the earth; in as much as Eternity is above time, and infinite felicities above vanities.</p>
+               <p>And not being able to find any thing on the Earth worthy of their deſires, They doe ſet out their pleaſures and
+<pb facs="tcp:9563:26"/>
+their felicities in the Empyrean heaven.</p>
+               <p>So as they doe in part, taſt before hand of the ſweetneſſe of thoſe pleaſures which they prete<g ref="char:cmbAbbrStroke">̄</g>d to receive at the end of their life, which makes them very graciouſly to tread vnder foot all the pleaſures of the Earth, while their ſoules are in ſuch contemplations, directing their Aimes to heaven.</p>
+               <p>And while they are in theſe divine Extaſies, their Spirits are ſo ſtrong, as they doe overcome their bodies, ſo hea<g ref="char:EOLhyphen"/>venly, as they doe then eſteeme the chie<g ref="char:EOLhyphen"/>feſt pleaſures of the body (as this of car<g ref="char:EOLhyphen"/>nall deſire and love) but as dung and droſſe in compariſon of thoſe more hea<g ref="char:EOLhyphen"/>venly pleaſures which they enjoy in their ſoules. And in ſuch compariſon they rejoyce more in Contemning theſe bodily pleaſures and in being above them, then in enioying them.</p>
+               <p>What need wee care for farthings who may have gold enough. But as St. <hi>Paul</hi> ſignifies; Marriage hinders this hea<g ref="char:EOLhyphen"/>venly pleaſure; He that is marryed, ſaith he, careth for the things that are of the world how hee may pleaſe his wife.</p>
+               <p>And certainely there bee many marri<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:9563:26"/>
+men in the world, if they did but true<g ref="char:EOLhyphen"/>ly know the Excellency of ſuch a con<g ref="char:EOLhyphen"/>templatiue heavenly life, and and did ſeriouſly conſider how freely and ioyfully wee Batchellors may life; They would even runne through fire and water to bee ſo happy.</p>
+               <p>But now leaſt marryed men ſhould bee too much diſpleaſed, let them know or thinke; That wee Batchellors when wee ſpeake againſt marryed men, meane one<g ref="char:EOLhyphen"/>ly of vnfit and ill marriages. Such as that of <hi>Spungius</hi> and <hi>Philtra;</hi> They would ſweare, curſe, quarrell, fight, &amp;c. Let ſuch bee alwayes ſcoft at and remaine miſera<g ref="char:EOLhyphen"/>ble, till they mend their manners.</p>
+               <p>And leaſt Batchellors ſhould bee too averſe from marriage. And ſuch as looſe their firſt Love, ſhould forbeare a ſecond choice which alwayes drownes the Love of the former in oblivion, and is the beſt remedy againſt Loves loſſe, for heere they may find it againe in another. Let us ſtill ſay, as Saint <hi>Paul</hi> ſaith; That marri<g ref="char:EOLhyphen"/>age is honourable in all men, and that it is good to marry, though for ſuch as can containe themſelves better to live ſingle.</p>
+               <p>
+                  <pb facs="tcp:9563:27"/>And that a Conſonant, Equall, and fit maariage, when both parties bee lo<g ref="char:EOLhyphen"/>ving, kind, wiſe, conſtant, and of good conditions, is a Terreſtriall Paradiſe; and from thence (as hath bin dilated) pro<g ref="char:EOLhyphen"/>ceedeth a marvailous deale of happy and bleſſed effects.</p>
+            </div>
+            <div n="11" type="section">
+               <head>SECT. XI. <hi>Remedies againſt an over-ſottiſh and doting Love.</hi>
+               </head>
+               <p>HAving formerly viewed, and ſee<g ref="char:EOLhyphen"/>ing the excellency of Lawfull Love, and the many ſweet and bleſſed effects ſpringing from thence. Let us take heed that wee doe not (as many men in the world have done) plunge our ſelves be<g ref="char:EOLhyphen"/>yond the bound-markes of Reaſon and diſcretion, into an over-ſottiſh and do<g ref="char:EOLhyphen"/>ting affection.</p>
+               <p>Many (other wiſe famous and wiſe) men, as <hi>Sampſon, David, Solomon, Her<g ref="char:EOLhyphen"/>cules, Socrates,</hi> and many others. Have not uniuſtly bin taxed of folly and in<g ref="char:EOLhyphen"/>diſcretion in this matter.</p>
+               <p>And the Poets faine, that <hi>Iupiter</hi> him<g ref="char:EOLhyphen"/>ſelfe was turned into a Golden ſhowre, A Bull, A Swan, A Satyre, A Shepherd, and
+<pb facs="tcp:9563:27"/>
+co<g ref="char:cmbAbbrStroke">̄</g>mitted many groſſe dotages for Love.</p>
+               <p>For Remedies whereof, and to the in<g ref="char:EOLhyphen"/>tent that wee may bee contented if wee cannot enjoy our wiſhes. And that if wee doe Enjoy our Love and deſires, the ſame may not hinder us from ſeeking and en<g ref="char:EOLhyphen"/>joying Divine beauty and pleaſures, which are infinitly better. Let us alſo view the vanity and inſufficiency of this Externall Lovelineſſe and beauty which is the object of our Love in this kind.</p>
+               <p>It is altogether vaine and uncertaine; Sickneſſe, care, griefe; The ſcratch of a Pin; The Sunne, or any thing may deface it. It ofttimes prooves dangerous, makes us forget God, bereaves us of grace, and of divine pleaſures. And is many times an occaſion of unlawfull Luſts, and the mi<g ref="char:EOLhyphen"/>ſeries thereof.</p>
+               <p>And many men by reaſon heereof, in ſpight of friends, parents, credite and fortunes, have bin wilfully and fooliſhly carried away to ſhame, diſgrace &amp; miſery.</p>
+               <p>So that immoderate ouer-ſottiſh Love, is no more a vertuous habit, but a vehe<g ref="char:EOLhyphen"/>ment paſſion and perturbation of the mind. A Monſter of nature, a deſtroyer of wit and Art.</p>
+               <p>
+                  <pb facs="tcp:9563:28"/>This externall Lovelineſſe and beauty, ſometimes bereaves us of all manlineſſe of Spirit, dejects our otherwiſe Nobler thoughts to vanities and toyes. Inſomuch that heereby wee are ſometimes ready to become fooliſh, doting, weake, brain<g ref="char:EOLhyphen"/>ſicke, Inamoratoes, and ſometimes to fall in Love even with painted vanityes, meere out-ſide Creatures, Things Empty of vertue and grace, And compoſed of Pride, Vanity and wickedneſſe.</p>
+               <p>If wee Love ſuch as have no other beauties but their bodies, what doe wee but love as irrationall creatures doe; Reaſon tell us, wee love that which a Pin may alter. That which is ſubject to a<g ref="char:EOLhyphen"/>bove 300 ſeverall diſeaſes, That which is all loathſome within, And that which ſhall bee nothing heereafter but putrifi<g ref="char:EOLhyphen"/>ed and Rotten Corruption.</p>
+               <p>And yet many of us forſooth, are no wiſer then to fall in Love with ſuch creatures of meere vanity and corrupti<g ref="char:EOLhyphen"/>on, quite depriving our ſelves of Reaſon, comparing their eyes to Starres, thin<g ref="char:EOLhyphen"/>king them the onely wonders of the world, and telling them they are like Angels, divine creatures, And what is
+<pb facs="tcp:9563:28"/>
+moſt excellent, and ſo even Idolatrize to theſe creatures of earth and vanity.</p>
+               <p>You Courtiers and others, who thinke it a trimme peece of glory to get a Mi<g ref="char:EOLhyphen"/>ſtreſſe, and a Ladyes favour forſooth, you who eſteeme and call your Minnions, Goddeſſes and divine creatures; And would like <hi>Adam</hi> give Paradiſe if you had it for an Apple, and venture heaven to ſatisfie your baſe and vnlawfull Luſts, you that adore theſe Victimes, and think your ſelves moſt happy when you can tempt the Pudicity of theſe female crea<g ref="char:EOLhyphen"/>tures and overcome them to your Luſts, what doe you but act the Devils Strata<g ref="char:EOLhyphen"/>gems which he teaches you, what doe you enjoy and adore but a Cruſt of Play<g ref="char:EOLhyphen"/>ſter full of corruption, a peece of fleſh that muſt Rot and turne to Putrifaction.</p>
+               <p>What a thing is this; A peece of Clay quickened with life adores a Snowy dunghill. There ſhall come a time when the Cruſt of your pleaſures ſhall bee bro<g ref="char:EOLhyphen"/>ken, and you ſhall ſee what miſery lyes within; thinke what faces you ſhall make at the day of Iudgement, unleſſe you re<g ref="char:EOLhyphen"/>pent and amend.</p>
+               <p>Where is now the faire <hi>Hellena, Cleo<g ref="char:EOLhyphen"/>patra,
+<pb facs="tcp:9563:29"/>
+Arethuſa, Hero, Lucretia, Roxane, Panthea, Leucippe, Ariadne, Po<g ref="char:EOLhyphen"/>lixena, Lesbia, Roſamond;</hi> And the reſt of thoſe admired Pieces whom the world hath ſeemed to adore, where is now their Beauty and glory. They are dead, and become a ſinke of Corruption, and ſo gaſtly, as wee ſhould be afraid to ſee them. Thinke now you proud Dames, what mettle you are made of, and let it give a checke to your Pride.</p>
+               <p>Flatter not your ſelves before your glaſſe, you Miſtreſſes and Madames of the world, I meane you, who are Emptie of Vertue and Grace, and full of Pride and wickedneſſe: You, that take a pride to charme Spirits, and bereave them of rea<g ref="char:EOLhyphen"/>ſon and grace; You, that ſtudy each day new leſſons of Vanity, Pride, and nice<g ref="char:EOLhyphen"/>neſſe, to wound hearts, whereby you un<g ref="char:EOLhyphen"/>doe Soules: your body is juſt of the ſame temper with the ſhadow which you ſee in your Glaſſe. You are indeed nothing.</p>
+               <p>And if you will, that I ſay you are ſomething; You are a meere dunghill covered with Snow; A ſinke of Infec<g ref="char:EOLhyphen"/>tion, environed with Flowers; A rich
+<pb facs="tcp:9563:29"/>
+Coffer, full of loathſomneſſe; You are the fraileſt and moſt changeable things in the world. I dare hardly eye you any longer, for feare while I looke upon you, you vaniſh from mine eyes, ſince you are ready to change and to dye every houre.</p>
+               <p>Me thinkes I could even laugh at your Vanities, and mock at thoſe that admire you ſo. I could willingly turne back and teare thoſe Love-diſcourſes out of my Booke in contempt of your Vanities, were it not for their ſakes, who are in<g ref="char:EOLhyphen"/>deed True-lovers.</p>
+               <p>But for ſuch Lovers ſakes, truely; who are not poſſeſt with this over-ſottiſh and doting affection on the one ſide; Nor with a ſtupid, blockiſh, or peeviſh Love on the other ſide: Such as are indeed ver<g ref="char:EOLhyphen"/>tuous, diſcreet, modeſt, Loving, conſtant, of ſweet and gracious Conditions; I could wiſh, that I were able to invent ſuch ſweet and pleaſant Love-ſtraines as might continually fill there hearts, with as much Ioy and delight in each other, as can be thought of.</p>
+               <p>Let us then endeavour to be ſuch true Lovers; and to all ſuch (as to our ſelves) Let us wiſh all joy and happineſſe.</p>
+            </div>
+            <div n="12" type="section">
+               <pb facs="tcp:9563:30"/>
+               <head>SECT. XII. <hi>Remedies againſt unlaw<g ref="char:EOLhyphen"/>full Luſts.</hi>
+               </head>
+               <p>LEt us alſo (while wee view the ex<g ref="char:EOLhyphen"/>cellency of Lawfull and true Loue) beware of unlawfull and Raging Luſts. There is wel nigh as much difference be<g ref="char:EOLhyphen"/>tweene true Love and unlawfull Luſts, as betweene heaven and hell.</p>
+               <p>For Nuptiall Love is lawfull, honorable, &amp; bleſſed, ordained of God in Paradiſe; A Remedy againſt fornication, adultery, and all unlawfull Luſts. And from which as hath bin declared, ſpringeth a million of bleſſed and ioyfull effects.</p>
+               <p>But all unlawfull Luſts and the effects thereof; as fornications, Adultery, In<g ref="char:EOLhyphen"/>ceſts, and the like, are Curſed, and often forbidden and threatned againſt in Gods ſacred word, as all men acquainted there<g ref="char:EOLhyphen"/>with, doe well know; And from thence proceedeth a multitude of evill and mi<g ref="char:EOLhyphen"/>ſerable effects.</p>
+               <p>Let us therefore briefly view the mi<g ref="char:EOLhyphen"/>ſeries of ſuch unlawfull Luſts. The con<g ref="char:EOLhyphen"/>ſideration whereof may bee Remedies
+<pb facs="tcp:9563:30"/>
+ſufficient to ſlight our irregular deſires from the ſame.</p>
+               <p>Though theſe Luſts bee pleaſant at firſt, yet the end is as better as Worme<g ref="char:EOLhyphen"/>wood, as that wiſe King ſaith, <hi>Prov.</hi> 5.4. The way to death and hell, verſe, 5.</p>
+               <p>To the body, it often cauſeth loath<g ref="char:EOLhyphen"/>ſome diſeaſes, as Pox, Gout, Sciatica, A<g ref="char:EOLhyphen"/>ches, Convultions, and divers others; It vſually cauſeth dulneſſe, weakneſſe, and ſhortens life.</p>
+               <p>Many men conſume their eſtates there<g ref="char:EOLhyphen"/>by, in feaſts, banquets, Revelling, pride, and guifts, thinking thereby to ſeeme magnificent and pleaſe their Minnions.</p>
+               <p>Luſts hath bin an occaſion of much Iea<g ref="char:EOLhyphen"/>louſies, ſtrife, diſcention, diſturbance, and ſubverſion of multitudes of perſons, families, Townes, and Kingdomes,</p>
+               <p>It was an occaſion of the deſtruction of the old world, of <hi>Sodome,</hi> of <hi>Ghomorra,</hi> The <hi>Sychemites,</hi> of <hi>Troy, Perſepolis.</hi> Of <hi>Spaine</hi> in the Raigne of King <hi>Rodericke,</hi> and many others.</p>
+               <p>It hath bin the Raine of ſtrong men, as <hi>Sampſon,</hi> wiſe, as <hi>Solomon,</hi> Prieſts, as <hi>Holies</hi> Sonnes, Elders, as in the ſtory of <hi>Suſanna,</hi> Hiſtories are full of examples in
+<pb facs="tcp:9563:31"/>
+in this kind; As of <hi>Caracalla</hi> the Empe<g ref="char:EOLhyphen"/>rour, <hi>Childericus</hi> the firſt of that name King of <hi>France, Teundezillus</hi> King of <hi>Spaine, Redoaldus</hi> King of <hi>Lombardy, Mulleaſſes</hi> King of <hi>Thunis, Abuſahid</hi> King of <hi>Fez,</hi> and his ſixe Sonnes. Of <hi>Tarquin, Antonius, Cleopatra, Appius Claudius, Alexander Medices</hi> Duke of <hi>Florence, Galleatius</hi> Duke of <hi>Millaine, Peter Lewes</hi> Duke of <hi>Placentia, Ione</hi> Queene of <hi>Naples, Fredegundus</hi> and <hi>Brun<g ref="char:EOLhyphen"/>haldus</hi> of <hi>France,</hi> &amp; others innumerable.</p>
+               <p>From this roote of unlawfull Luſts, ſpringeth alſo to the Soule of man a mul<g ref="char:EOLhyphen"/>titude of evils and miſeries; as Fornica<g ref="char:EOLhyphen"/>tions, Adulteries, Inceſts; and ſomtimes Rapes, breach of Vowes, and treacheries are occaſioned hereby, whereof Hiſto<g ref="char:EOLhyphen"/>ries are repleniſhed with Examples.</p>
+               <p>Cares, feares, jealouſies, paines, per<g ref="char:EOLhyphen"/>plexities, Enmities, Contentions, ex<g ref="char:EOLhyphen"/>treame ſorrow, heart-burnings, ſadneſſe, dulneſſe, and ſometimes fiery dotage and madneſſe, proceed from this Fountaine.</p>
+               <p>Shame and Repentance is certainly the end thereof, or worſe; Diſpaire, and e<g ref="char:EOLhyphen"/>ternall miſery, without Reconciliation to God through CHRIST our Saviour.</p>
+               <p>
+                  <pb facs="tcp:9563:31"/>The conſideration of all theſe miſeries, may make us for ever hate, and endea<g ref="char:EOLhyphen"/>vour to avoid ſuch, unlawfull Luſts.</p>
+               <p>Other Remedies uſually perſcribed a<g ref="char:EOLhyphen"/>gainſt the ſame, are; A moderate, coole, dry, and ſparing diet, faſting, Prayer, Con<g ref="char:EOLhyphen"/>tinuall Action, in ſome good buſineſſe &amp; imployments, and to be alwaies thinking of other good matters.</p>
+               <p>But the beſt and moſt vſuall Remedy for ſuch as are of an unruly temper, is marriage and Nuptiall Love.</p>
+               <p>Let therefore married men, endeavour to Love their wifes as much as they can, and let Batchellors if they may, Marry ſuch as from their hearts they can truly Love.</p>
+               <p>For true Lovers (as I conceive) may take more pleaſure in the Enjoying of one another, then if they might poſ<g ref="char:EOLhyphen"/>ſeſſe the Love &amp; ſociety of as many Min<g ref="char:EOLhyphen"/>nions and beauties as they can deſire in the world; For why, diverſity of Loves (as in obiects to the ſight) hinder, intire and true pleaſure in any. And wee know, that one dainty diſh moſt pleaſing to our pal<g ref="char:EOLhyphen"/>late, is more delightfull then abundance which cloyes our eyes and ſtomacke.</p>
+            </div>
+            <div n="13" type="section">
+               <pb facs="tcp:9563:32"/>
+               <head>SECT. XIII. <hi>Remedies againſt Diſcontents after marriage,</hi>
+               </head>
+               <p>BVt now if wee ſhould miſtake our ſelves (as many men do) who thinke they take an Angell by the hand at their marriage day in the Church, but after find that they have a <hi>Scorpion</hi> in their houſe, and in their beds; ſome ſcolding, brawling, ill condition'd woman, for King <hi>Solomon</hi> ſaith, An evill woman is like a <hi>Scorpion,</hi> yet let us bee contented.</p>
+               <p>Let us bee as wiſe as wee may, and con<g ref="char:EOLhyphen"/>ſider womens weakneſſes and infirmi<g ref="char:EOLhyphen"/>ties; That if perhaps men had their bo<g ref="char:EOLhyphen"/>dyes, they would bee as fraile and as paſ<g ref="char:EOLhyphen"/>ſionate as women; And if Women were freed from the frailty of their ſex, they would bee as manly and as excellent as men.</p>
+               <p>And though Women have divers na<g ref="char:EOLhyphen"/>turall infirmities both of body and mind, yet a wiſe man will not love his wife a jot the worſe, becauſe hee knowes they are naturall.</p>
+               <p>But few Women are Angels, and hee
+<pb facs="tcp:9563:32"/>
+that would have a Woman without paſ<g ref="char:EOLhyphen"/>ſions, muſt marry when the Signe is not in <hi>Coelo.</hi>
+               </p>
+               <p>And for this ſcolding malady, this is a good Remedy; To bee ſilent and not regard her, or elſe to laugh at her.</p>
+               <p>But let us ſee if the fault be not in our ſelves. The reaſon why many Wo<g ref="char:EOLhyphen"/>men are ſo bad, is; becauſe they have ill Husbands, if ſo, let us mend. Happie are wee, if our Wives be an occaſion of our being good, though they be never ſo bad. And ſometimes, a good man may chance to make a good wife of an ill one.</p>
+               <p>It is alſo fit, that Men ſhould uſe their Wives well, and maintaine them in good faſhion according to their meanes, and to let them have ſuch reaſonable and convenient Liberty and authority, as it is fit a wife (who is a mans ſecond ſelfe) ſhould have and enjoy.</p>
+               <p>For want of this, many women be<g ref="char:EOLhyphen"/>ing too ſtraitly kept under, and unkind<g ref="char:EOLhyphen"/>ly and Churliſhly uſed; are even forced to flye out beyond Reaſon, and to be<g ref="char:EOLhyphen"/>come Froward, Contentious, Iealous, diſcontented; And ſome, to turne
+<pb facs="tcp:9563:33"/>
+Queanes by Compulſion.</p>
+               <p>Too much liberty and Authority on the other ſide, is not fit to bee allowed them; eſpecially to ſuch kind of women, as love not their owne houſes, but by reaſon of much gadding abroad, learne more tricks then bee good, who are then onely plea<g ref="char:EOLhyphen"/>ſant and contented. And at home no<g ref="char:EOLhyphen"/>thing but brawle, and are there common<g ref="char:EOLhyphen"/>ly ſullen, froward, peeviſh, diſcontented, and of idle lewd conditions.</p>
+               <p>Let therefore, both men and women endeavour to avoyd all occaſions of ſtrife, and diſcontent, as much as they may; And ſuch as cannot bee avoided, to Contemne or Diſſemble, and make the beſt thereof. And to endeavour in all re<g ref="char:EOLhyphen"/>ſpects, to live lovingly, familiarly, and pleaſantly, in ſuch ſort as becomes them.</p>
+               <p>Saint <hi>Paul,</hi> and Saint <hi>Peter,</hi> give ex<g ref="char:EOLhyphen"/>cellent directions, to this purpoſe.</p>
+               <p>So ought men to love their Wiues, (ſaith Saint <hi>Paul</hi>) as their owne bodies, for no man ever yet hated his owne fleſh, but nouriſheth and cheriſheth it, even as the Lord his Church, <hi>Eph.</hi> 5.25.</p>
+               <p>
+                  <pb facs="tcp:9563:33"/>And againe, yee men Love your wiues, and bee not bitter to them. <hi>Coloſſians.</hi> 3.19.</p>
+               <p>And to women, he ſayth; Wiues ſub<g ref="char:EOLhyphen"/>mit your ſelves vnto your husbands, as unto the Lord; For the husband is the head of the wife, even as Chriſt is the head of the Church. <hi>Eph.</hi> 5.22.</p>
+               <p>Saint <hi>Peter</hi> alſo giveth directions to this purpoſe, in his 1. <hi>Epiſtle,</hi> and 3 <hi>Chapter.</hi>
+               </p>
+               <p>I will write them at large, for they are moſt excellent; Hee beginnes with Wiues, and is longeſt about them, they having as it ſeemes, moſt need of inſtruc<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Yee wiues (ſaith hee) bee in ſubjection to your husbands, that if any obey not the word, they alſo may without the word bee wonne by the Converſation of their wiues, while they behold their Chaſt converſation coupled with feare.</p>
+               <p>Whoſe adorning, let it not bee that outward Adorning of playting the Haire, or of wearing and put<g ref="char:EOLhyphen"/>ting on gorgious Apparell. But let it bee of the Heart, in that, which
+<pb facs="tcp:9563:34"/>
+is not Corruptible, even the ornament of a meeke and quiet Spirit, which is in the ſight of GOD, of great price.</p>
+               <p>For after this manner in the old time, the holy Women alſo who truſted in GOD adorned themſelves, being in ſubjection unto their owne Husbands: Even as <hi>Sara</hi> obeyed <hi>Abraham,</hi> calling him Lord, whoſe Daughters yee are, as long as yee doe well, and not being diſ<g ref="char:EOLhyphen"/>mayed with feare.</p>
+               <p>Likewiſe, Yee husbands (ſayth hee) dwell with your Wives according to knowledge, giving honour unto the wife as unto the weaker veſſell; and as being heyres together of the grace of Life, that your Prayers may not be hin<g ref="char:EOLhyphen"/>dred.</p>
+               <p>Finally, bee yee of one minde, having Compaſſion one of another, being pitti<g ref="char:EOLhyphen"/>full, courteous; Not rendring evill for evill, or rayling for rayling, but contra<g ref="char:EOLhyphen"/>riwiſe, bleſſing; knowing that yee are thereunto called, that yee may inherit a bleſſing.</p>
+               <p>Thus much (ſayth St. <hi>Peter</hi>) 1 <hi>Epheſ.</hi> 3 Chapter, 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 verſes.</p>
+               <p>
+                  <pb facs="tcp:9563:34"/>So then, let Men and their Wives in all reſpects, Endeavour to live together as they ought, according to ſuch Divine direction.</p>
+               <p>Let them alwayes bee as Loving, kinde, pleaſant, and as familiar as may bee, and mutually enjoy together all the bleſſings and benefits, belonging to this Nuptiall Love and Societie.</p>
+               <p>And eſpecially, let them bee Pious and Religious. Then, though their Beauty and Bodies ſhould decay and become in<g ref="char:EOLhyphen"/>firme, yet their very Soules may bee in Love with one another, which is farre more excellent then bodily Love.</p>
+               <p>So while they view one another as di<g ref="char:EOLhyphen"/>vine and Celeſtiall creatures, as the be<g ref="char:EOLhyphen"/>loved of God himſelfe, their Loves may ſtill kindle and increaſe, untill both they and it aſcend to that firmament of fire, where Love (all divine and heavenly) flames beyond imagination, and laſts for euer.</p>
+            </div>
+            <div n="14" type="section">
+               <pb facs="tcp:9563:35"/>
+               <head>SECT. XIIII. <hi>A briefe perſwaſion to Marriage.</hi>
+               </head>
+               <p>I Shall now endeavour briefly, to per<g ref="char:EOLhyphen"/>ſwade ſuch, as may conveniently (though a ſingle Life, bee otherwiſe to bee preferr'd before it) to this honoura<g ref="char:EOLhyphen"/>ble and bleſſed eſtate of Marriage.</p>
+               <p>It hath alwayes bin confeſt by all rea<g ref="char:EOLhyphen"/>ſonable men; That a conſonant Marri<g ref="char:EOLhyphen"/>age (ſuch as when both parties be equal<g ref="char:EOLhyphen"/>ly match'd in reſpect of Yeares, Birth, Conſtitution, and Fortunes; and of lo<g ref="char:EOLhyphen"/>ving, kinde, wiſe, conſtant, and good Conditions,) is an earthly Paradiſe of happineſſe.</p>
+               <p>And no man can juſtly blame ſuch Marriages, unto which; All lawes, both Divine and Humane exhort us, Nature provoketh us, Honeſty draweth us. All Nations approove thereof, neceſſity of Continuing our kinde, conſtraineth us, and abundance of felicity inviteth us thereunto.</p>
+               <p>And St. <hi>Paul</hi> ſayth, <hi>It is the Doctrine of Devils to forbid Marriage.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:9563:35"/>The beſt and moſt learned Philoſo<g ref="char:EOLhyphen"/>phers, have praiſed and uſed the ſame: As <hi>Socrates, Plato, Ariſtotle, Seneca, Plutarch,</hi> and others.</p>
+               <p>And though a Contemplative divine Spirit, can overcome Nature, and con<g ref="char:EOLhyphen"/>temne the greateſt earthly pleaſure, in Compariſon of heavenly delights, and take great pleaſure in ſuch Contempt; Yet all men have not this divine Grace of Continencie. And looking downe<g ref="char:EOLhyphen"/>wards againe, we may conſider, that we have Bodies as well as Soules, which re<g ref="char:EOLhyphen"/>quire due and convenient Recreations.</p>
+               <p>And though (as St. <hi>Paul</hi> well obſer<g ref="char:EOLhyphen"/>ved) Marriage hindereth a heavenly Contemplative life; in reſpect of Care, and other diſturbances; yet for all theſe fore-named conſiderations, and many o<g ref="char:EOLhyphen"/>ther. It is good to marry, though better to live ſingle, if wee burne not; and if wee have divine Grace enough to bee Continent.</p>
+               <p>And this Nuptiall ſociety being honou<g ref="char:EOLhyphen"/>rable, bleſſed, and ordained of God, for avoyding of unlawfull luſts, for the pre<g ref="char:EOLhyphen"/>ſervation of Mankind, and for mutuall helpe, comfort and pleaſure, in one ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <pb facs="tcp:9563:36"/>It cannot bee denyed, but it is good to marry; eſpecially, when ſuch marry whoſe bodies &amp; minds doe Sympathize, and both are of Loving and good condi<g ref="char:EOLhyphen"/>tions. From ſuch a Marriage (as hath bin dilated) ſpringeth a Terreſtriall Para<g ref="char:EOLhyphen"/>diſe of pleaſures and happineſſe.</p>
+               <p>To conclude then; Let us wiſh all joy to ſuch happie Lovers. Let the Gra<g ref="char:EOLhyphen"/>ces dance, and the Muſes ſing at their Wedding. And let all pleaſantneſſe, love and joy, dwell for ever in their hearts. And as their yeares, ſo may their Love and Ioyes increaſe. That in after-times they may ſay: This is the twentieth or thirtieth yeare of our Ioy.</p>
+               <p>Let them alwayes be familiar and kind to one another; So to our ſelves when wee are married, and to all married men, let us wiſh all proſperity.</p>
+               <p>And let us all take King <hi>Solomons</hi> counſell, <hi>Prov.</hi> 5.17. <hi>Rejoyce in the wife of thy youth, let her bee vnto thee as the loving Hinde and pleaſant Roe, and Re<g ref="char:EOLhyphen"/>joyce in her Love continually.</hi>
+               </p>
+            </div>
+            <div n="15" type="section">
+               <pb facs="tcp:9563:36"/>
+               <head>SECT. XV. <hi>Of the good uſe of this Nuptiall Love, and ſo concluding with a briefe diſcourſe of Divine Love.</hi>
+               </head>
+               <p>TO conclude then with the good uſe of this Nuptiall Love. If God pleaſe to give us any bleſſings in this kind, let us uſe them well, Enjoy them and bee thankfull.</p>
+               <p>Hee that uſeth theſe externall felici<g ref="char:EOLhyphen"/>ties of the world, ſuch as this of Nuptiall Love, to the glory of God, and to good ends, with moderate delectation, is bet<g ref="char:EOLhyphen"/>ter to bee reputed, then hee that unduely, Inconſiderately, Raſhly, Inconveniently, and Suſpitiouſly (as ſome Monkes and o<g ref="char:EOLhyphen"/>thers doe) neglects, and refuſeth ſo great a good, which God freely offers to our acceptance.</p>
+               <p>Theſe externall pleaſures and bleſſings of the world, may ſerve to many excel<g ref="char:EOLhyphen"/>lent uſes, ſtirring us up to all duties of piety, to the Love of God, to thankful<g ref="char:EOLhyphen"/>neſſe, and joy in him.</p>
+               <p>Let us then enjoy God in all things.
+<pb facs="tcp:9563:37"/>
+And all thinges in him, and to his glo<g ref="char:EOLhyphen"/>ry.</p>
+               <p>The Principall good uſe of this Love and the felicities thereof, which I ſhall now inſiſt upon, is; That by viewing and enjoying ſuch pleaſures and felici<g ref="char:EOLhyphen"/>ties of the Earth, wee may looke high<g ref="char:EOLhyphen"/>er to their Fountaine; Contemplating the Love, Lovelineſſe, Beauty, Sweet<g ref="char:EOLhyphen"/>neſſe, and Excellency of the Creator, who is infinitely more excelling. And ſo conclude, with a briefe Diſcourſe of Divine Love.</p>
+               <p>True it is, that all other Excellencies, are but dung and droſſe in reſpect of GOD; yet by and through theſe low<g ref="char:EOLhyphen"/>er delights and felicities of the Earth; Theſe little glimpſing Rayes, procee<g ref="char:EOLhyphen"/>ding from that Sunne of Glory: wee may ſpy ſome light of that Sunne, GOD himſelfe, and of that Eternall felicity, which wee pretend hereafter to poſ<g ref="char:EOLhyphen"/>ſeſſe. And ſo in ſome meaſure, ſpell and ſpye Heaven from the Earth.</p>
+               <p>Neyther ought wee to diſdaine, to make Compariſons betweene Corpore<g ref="char:EOLhyphen"/>all and Spirituall thinges; betweene
+<pb facs="tcp:9563:37"/>
+Earthly and Heavenly; Though in re<g ref="char:EOLhyphen"/>ſpect of the Excellency of the Spiritu<g ref="char:EOLhyphen"/>all and Heavenly, there is no compari<g ref="char:EOLhyphen"/>ſon; Yet (as Children have need at firſt, to bee allured to the acquiſt of Great and Excellent matters, by ſuch toyes and trifles as they apprehend; ſo) in reſpect of our weake apprehenſion, ſuch Compariſons and Similitudes, are, and ought to bee uſed, in a convenient manner.</p>
+               <p>So, as wee may make, a very good uſe of Earthly felicities in this reſpect, (as men doe of Spectacles;) for by, and through theſe, our dimme Eyes may ſee the cleerer into heavenly Excellen<g ref="char:EOLhyphen"/>cies. And conſequently, bee the more enamour'd of them, and ſo ſtirred up to ſeeke and enjoy them.</p>
+               <p>And in this reſpect of Nuptiall-Love, the ſacred Scripture gives us many and faire Examples.</p>
+               <p>As in <hi>Hoſea: I will returne vnto my firſt Love, for it was then better with mee than it is now. Hoſ.</hi> 2.7.</p>
+               <p>And in divers places, CHRIST and his Church, are compared to Lovers, betrothed, and to bee married together.</p>
+               <p>
+                  <pb facs="tcp:9563:38"/>The Church, is called the Bride, the Lamps wife. <hi>Rev.</hi> 21.9. And the end of the world, is called their marriage day. <hi>Rev.</hi> 19.7.</p>
+               <p>Saint <hi>Iohn Baptiſt</hi> calleth Chriſt, the Bride-groome, and his Church the Bride, <hi>Iohn.</hi> 3.29. And Chriſt calleth himſelfe the bridegroome, <hi>Marke.</hi> 3.</p>
+               <p>That Song of Songs betweene two Lo<g ref="char:EOLhyphen"/>vers betrothed each to others. Is by the conſent of all Divines, a moſt pleaſant Love-ſong, betweene Chriſt and his Church.</p>
+               <p>What remaines then, but that wee ſeeke for, and enjoy that fountaine of all Love, lovelineſſe, beauty, ſweetneſſe, and ex<g ref="char:EOLhyphen"/>cellency, which is infinitely more perma<g ref="char:EOLhyphen"/>nent and Excellent, then all the other beauties and excellencies of the world, if they were all united together.</p>
+               <p>If wee could truely thinke, what God is, how beautifull, lovely, glorious, and in all reſpects moſt Excellent; Our hearts would preſently bee filled with Love and Admiration of him; inſomuch, as then wee ſhould ſettle our deereſt and nobleſt thoughts wholly upon him, and in his Love wee ſhould bee filled with ſwee<g ref="char:EOLhyphen"/>teſt
+<pb facs="tcp:9563:38"/>
+flames of joy and pleaſures.</p>
+               <p>One thing have I deſired, ſaith King <hi>David,</hi> and I will ſtill deſire, to behold the beauty of the Lord.</p>
+               <p>His beauty, infinitely excells the beau<g ref="char:EOLhyphen"/>ty of the heavens, Sunne, Moone, Starres, Angels, or what is moſt excellent.</p>
+               <p>If there bee ſuch beauty, lovelineſſe, and pleaſure in a Creature. As that it hath ſuch power to draw neere unto the eyes, Eares, and affections of ſuch as be<g ref="char:EOLhyphen"/>hold and conſider it, how much more beautifull and lovely is God himſelfe, the Creator and the fountaine from which all other Excellencies ſpring. How ſhould this divine beauty of God, attract our deſires, and inflame us with Love and Ioy.</p>
+               <p>If wee ſo much endeavour, and bee ſo much affected with the Comelineſſe of Creatures, how ſhould wee bee Rapt at the Admirable Luſtre of God himſelfe.</p>
+               <p>Hee offers his Love moſt freely, to ſuch as will accept the ſame; Wiſdome cryes out in the ſtreets &amp;c. <hi>Prov.</hi> 8. Hee invites us to come into his faire garden, to eate, drinke, with them to bee merry, and to enioy his preſence for ever, <hi>Cant,</hi> 5.</p>
+               <p>
+                  <pb facs="tcp:9563:39"/>But, wee muſt then lay aſide all vaine objects of the world; All mucky Co<g ref="char:EOLhyphen"/>vetouſneſſe, All aiery Ambition. All vaine ſenſuall Luſts. Our deſires muſt not creepe on the Earth, wee muſt purifie our hearts, deny our ſelves, and looke aboue our ſelves, If wee will have a cleere viſi<g ref="char:EOLhyphen"/>on of God: A flaming Love, and ſoule-raviſhing delights in him.</p>
+               <p>Let us then endeavour to lay aſide all Earthly thoughts, when wee intend to view this ſight; To enjoy this Love, this pleaſure. Let us by Contemplation which is the beſt opticke, view heaven, ſee and grow into acquaintance with God.</p>
+               <p>Being acquainted, let us proceed fur<g ref="char:EOLhyphen"/>ther, and endeavour to bee more famil<g ref="char:EOLhyphen"/>liar with him; To denie our ſelves, and goe out of our ſelves, to live a<g ref="char:EOLhyphen"/>bove our ſelves with him. Let us powre forth our ſoules into God, and In-ſoule our ſelves into him, ſo as his Divine Love and Ioy, yea himſelfe may wholly poſſeſſe us.</p>
+               <p>When a Soule is once thus poſſeſt with the beauty and Love of God, it will bee often thinking of him, often
+<pb facs="tcp:9563:39"/>
+mounting up to heaven, and as a vapour exhal'd by the Sunne, often gliding after its Love, being thereunto attracted by the allurements of his moſt Amiable, faire, and Divine beauty, and Loveli<g ref="char:EOLhyphen"/>neſſe. Inſomuch, as it will be enlight<g ref="char:EOLhyphen"/>ned with glorious thoughts, towring apprehenſions, Ardent affections, and heavenly Ioyes.</p>
+               <p>Further, when the ſoule conſiders the infinite Love of God to it. As that this infinite glorious God, ſhould ſend his onely Sonne, a part of him<g ref="char:EOLhyphen"/>ſelfe, to redeeme and glorifie us. That this part of himſelfe, This very God, our Saviour, Ieſus Chriſt, ſhould vnvaile himſelfe of all his glo<g ref="char:EOLhyphen"/>ry, come to live on Earth, and ſuf<g ref="char:EOLhyphen"/>fer ſo much; ſuch a Death for ſuch miſerable wretches as wee are, when wee were his enemyes; to deliver us from Death, Hell, and all miſery, and to merrit for us, Heaven and all felicity, why then it is even overcome (and with Saint <hi>Ignatius,</hi> even weepes) with Love and joy, to thinke that his love was crucified for him.</p>
+               <p>
+                  <pb facs="tcp:9563:40"/>Lord teach us a language wholly divine to thanke thee for ſuch Love.</p>
+               <p>See, what a vertue is in the paſſion of our Saviour, that if our ſoules in Contem<g ref="char:EOLhyphen"/>plation of his wounds, ſhould reſſent the ſmart, yet knowing that he ſuffered all this moſt willingly to make us happy. It is enough to make us even ſwoune with Ioy and Love, and bee extazied with a thouſand ſorts of pleaſures. Inſomuch as wee ſhould willingly dye of Love, and joy for his ſake.</p>
+               <p>Moreover, when the Soule thinkes how her Saviour loves her, it is enough to fill her with ſweeteſt ioy and plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>O! how ſhee is inflamed with Love, when ſhee contemplates thoſe ſweete words of her beloved, calling her his ſiſ<g ref="char:EOLhyphen"/>ter, his ſpouſe, his Love, his Dove, his vndefiled. And ſaying, thou art all faire my Love, there is no ſpot in thee; Thou haſt raviſhed my heart with one of thine eyes &amp;c. <hi>Cant.</hi> 4.</p>
+               <p>And my beloved, is the faireſt among Women, the chiefeſt among tenne thou<g ref="char:EOLhyphen"/>ſand, Looking forth as the morning, faire; as the Moone, pure; as the Sun, &amp;c. <hi>Cant.</hi> 5.</p>
+               <p>
+                  <pb facs="tcp:9563:40"/>That ſhee is a Kings daughter; As a Queene in a veſture of Gold, of Ophir, embroydred Rayment of Needle worke, that the King might take pleaſure in her Beauty, <hi>Pſal.</hi> 45.</p>
+               <p>O! how the ſweet harmonious accents of theſe words doe raviſh the Spirits, and powerfully attract the hearts of all thoſe unto him, that are able truely but to heare the Eccho of them, and to per<g ref="char:EOLhyphen"/>ceive the ſweetneſſe thereof; Inſo<g ref="char:EOLhyphen"/>much, that they are ready to borrow wings on all ſides, &amp; to flye out of them<g ref="char:EOLhyphen"/>ſelves, that they may bee wholly poſſeſt with the Love and Ioy of their Savi<g ref="char:EOLhyphen"/>our.</p>
+               <p>Let us then feelingly ſpeake to our Beloved, in the ſame language which hee ſpeakes to us; Then which indeed can be no better, no ſweeter.</p>
+               <p>Come then my Beloved, Kiſſe mee with the kiſſes of thy mouth, for thy Love is better then Wine; Draw me and I will runne after thee: Shew mee, O thou whom my Soule loveth, where thou feedeſt and where thou ma<g ref="char:EOLhyphen"/>keſt thy flocke to reſt at noone. <hi>Cant.</hi> 1<g ref="char:punc">▪</g> 2, 4, 7.</p>
+               <p>
+                  <pb facs="tcp:9563:41"/>Stay mee with thy flagons, and com<g ref="char:EOLunhyphen"/>fort mee with apples, for I am ſicke o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love. <hi>Cant,</hi> 2.5.</p>
+               <p>Come my beloved, let us goe foorth into the fields, let us lodge in the Villa<g ref="char:EOLhyphen"/>ges, Let us get up early to the Vineyards, let us ſee if the Vine flouriſh, whether the tender grape appeare, and the Pom<g ref="char:EOLhyphen"/>granate bud foorth. There will I giue thee my Love. <hi>Cant.</hi> 7.11.12.</p>
+               <p>Set mee as a ſeale of thine heart, and as a ſignet on thine Arme; For Love is as ſtrong as death. It is as a fire, a vehement flame, many waters cannot quench Love, and the flouds cannot drowne it, &amp;c. <hi>Cant.</hi> 8.6.7.</p>
+               <p>I am perſwaded, ſaith Saint <hi>Paul;</hi> That neither life nor death, nor Angells, nor principalities, nor powers, nor things preſent, nor things to come, nor height, nor depth, nor any other creature, ſhall bee able to ſeperate us from the Love of God which is in Chriſt, <hi>Rom.</hi> 8.38.</p>
+               <p>True Love ſuffers not for the Sub<g ref="char:EOLhyphen"/>ject which it Loves, It hath a power in it to change the nature
+<pb facs="tcp:9563:41"/>
+of things. From the time that a Soule is chaſtly taken with this paſſion even the paines and torments thereof are changing the name and quality with<g ref="char:EOLhyphen"/>in the Heart. They are Roſes rather then Thornes: For if it ſigh, it is of Ioy and not of paine, if it bee neceſſary to dye for the glory of this Lovely cauſe of its life, It is no death to it, but a meere Rapt of Contentment, which ſevers it ſelfe from it ſelfe, in Love of another ſelfe, whom it Loves more then it ſelfe.</p>
+               <p>So that, if wee were truely capable of the Love, Beauty, Glory, and ex<g ref="char:EOLhyphen"/>cellency of our Saviour; Though with Saint <hi>Lawrence,</hi> wee ſhould broyle up<g ref="char:EOLhyphen"/>pon Devouring flames; Yet our hearts which would burne more hot with the fire of his Love, then that of our puniſhment, would quite extin<g ref="char:EOLhyphen"/>guiſh the ſame; for our hearts be<g ref="char:EOLhyphen"/>ing all aflame already, and our ſoules afire, how could wee expire amidſt thoſe heates, though our bodyes were burned to aſhes, ſince the ſtronger muſt needs prevaile.</p>
+               <p>
+                  <pb facs="tcp:9563:42"/>Inſomuch, as wee ſhould feele the de<g ref="char:EOLhyphen"/>lights of Heaven in the fire, whereof we ſhould make our ſelves a Crowne of glory.</p>
+               <p>Though wee cannot attaine to ſuch an height of Love and Ioy, yet let us endeavour to love as much as wee can; For GOD, who alwayes accepteth the will for the deed, will lovingly ac<g ref="char:EOLhyphen"/>cept of our good wiſhes and Endea<g ref="char:EOLhyphen"/>vours. And his Power is made perfect in our Infirmities; as St. <hi>Paul</hi> ſayth.</p>
+               <p>And the more to inflame our loue to GOD. Many gracious and glorious Pro<g ref="char:EOLhyphen"/>miſes are regiſtred in his Divine word, to ſuch as Love him.</p>
+               <p>I ſhall onely mention and Conclude, with that of Saint PAVL, 1 <hi>Corinth,</hi> 2.9. <hi>Eye hath not ſeene, nor Eare heard, nei<g ref="char:EOLhyphen"/>ther hath it entred into the Heart of man, thoſe things which GOD hath prepared for them that Love him.</hi>
+               </p>
+               <p>Thinke then you Spirits of the world, what Felicitie this is; Wee know the Eye hath ſeene moſt Beautifull, Lovely and glorious things: The Eare hath heard rare Conſorts of Muſicke and
+<pb facs="tcp:9563:42"/>
+voyces. What ſweet Ioy and pleaſure, hath the Heart of man imagined of the Orchards of <hi>Adonis;</hi> The Gardens of <hi>Heſperides;</hi> The Delights of the fortu<g ref="char:EOLhyphen"/>nate <hi>Iſlands.</hi> Of the <hi>Elizian</hi> Fields, and <hi>Turkes</hi> Paradiſe.</p>
+               <p>But let Humane imagination thinke of all theſe at once, and aſſemble in one Subject whatſoever is moſt Beautifull and delicious in Nature. Let them ima<g ref="char:EOLhyphen"/>gine a Quire of <hi>Syrens,</hi> and let them joyne thereto in Conſort, both the Harpe of <hi>Orpheus,</hi> and the voyce of <hi>Am<g ref="char:EOLhyphen"/>phion.</hi> Let <hi>Apollo</hi> and the Muſes, bee there to beare a Part: And let them ſearch within the Power of Nature, all the extreame Pleaſures which it hath produced in the world hitherto, to charme our Senſes, and to raviſh our Spi<g ref="char:EOLhyphen"/>rits; Yet all theſe are but meere <hi>Chy<g ref="char:EOLhyphen"/>meraes,</hi> and as a vaine <hi>Idaea;</hi> A meere Shadow of a body of pleaſure, in Com<g ref="char:EOLhyphen"/>pariſon of thoſe Divine thoughts and pleaſures, which the Saints may and ſhall enjoy, in the Contemplation of GOD and his infinite Beauty, Glory, Love, and of the Felicities which hee hath prepa<g ref="char:EOLhyphen"/>red for them that Love him.</p>
+               <p>
+                  <pb facs="tcp:9563:43"/>Their thoughts and Contemplations even in this life may bee Compoſed, of mutterably Glories, Crownes, King<g ref="char:EOLhyphen"/>domes, Divine viſions. Heavenly exul<g ref="char:EOLhyphen"/>tations of Spirit, and of extreame ioyes, pleaſures, and felicities; It is impoſſible to expreſſe the pleaſures of a heavenly Soule. The Contentments thereof are not to bee ſo called; Its ſweetneſſe hath another name; Its Extaſies and Ra<g ref="char:EOLhyphen"/>viſhments cannot bee vttered. Saint <hi>Paul</hi> himſelfe, could not expreſſe the ſame. Hee could not tell, whether hee were in his body or no; Inſomuch, as the heart that feeles them cannot com<g ref="char:EOLhyphen"/>prehend them. Truely therefore, doth Saint <hi>Paul</hi> ſay; <hi>That ſuch pleaſures have not entred into the heart of man.</hi>
+               </p>
+               <p>This ſeemes to bee a Riddle, Not Entred into the heart of man, how can man enioy it then; Indeed, hee muſt bee aboue a naturall Man. Aboue him<g ref="char:EOLhyphen"/>ſelfe that enioyes ſuch pleaſures. Hee muſt bee Partaker of the Divine na<g ref="char:EOLhyphen"/>ture, of a Superhumane and Heavenly temper.</p>
+               <p>All Grace is aboue nature, And if
+<pb facs="tcp:9563:43"/>
+(by reaſon of our frailties and infirmi<g ref="char:EOLhyphen"/>ties) wee cannot attaine to ſuch a height of Love to, and joy in God, in this life; yet if wee indeavour true<g ref="char:EOLhyphen"/>ly, for this grace to Love and ſerve him, (who alwayes accepts our true Endeavours and deſires, and perfects our weakneſſe by his power) There ſhall come a time, when, wee ſhall ſee GOD as hee is, know him as wee are knowne, Love him beyond expreſſion, and enjoy in him infinite plea<g ref="char:EOLhyphen"/>ſures and felicities for ever.</p>
+               <p>And then wee ſhall bee made like him as Saint <hi>Iohn</hi> ſayth. 1. <hi>Iohn.</hi> 3.2, In ſuch ſort, as fire by uniting it ſelfe to yron, by an exceeding and extreame heate doth purifie the yron and convert the ſame into fire. In like manner (but a<g ref="char:EOLhyphen"/>bove all degrees of Compariſon) doth GOD purifie and reduce us to a be<g ref="char:EOLhyphen"/>ing ſupernaturall and deified, vnites and takes the ſoule into his owne divine nature.</p>
+               <p>And this fire which ſhall ſo vnite us to God is divine Love; For as God is a con<g ref="char:EOLhyphen"/>ſuming fire to his Enemies. So is hee a fire of Love to his friends.</p>
+               <p>
+                  <pb facs="tcp:9563:44"/>And then wee ſhall have a new be<g ref="char:EOLhyphen"/>ing, and a new Name; That is, of our Spouſe, of our Beloved, of GOD him<g ref="char:EOLhyphen"/>ſelfe; For, hereby the Soule becomes a Part of GOD, and with him and in him, enjoyes all Happineſſe; So, as now it may be ſayd, to be no more a Soule but GOD himſelfe.</p>
+               <p>To conclude; Let us then fervently wiſh and long for this time, which ſhall bee at the Marriage of the Kings Sonne, to which the Angels ſhall invite us. Then ſhall wee Celebrate an Everlaſting wedding Feaſt; yea, our Soules ſhall bee the Bride, and Love ſhall be the Banner over us. And then ſhall we poſſeſſe and enjoy infinite pleaſures and felicities, for ever.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:9563:44"/>
+            <p>
+               <hi>Jmprimatur,</hi>
+            </p>
+            <closer>
+               <signed>THO: WYKES.</signed>
+               <dateline>
+                  <date>
+                     <hi>Decemb:</hi> 7. 1637.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
